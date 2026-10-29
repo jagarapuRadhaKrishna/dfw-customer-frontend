@@ -1,0 +1,97 @@
+/* Atmos Collection Page Main Styles */
+
+.atmosContainer {
+  width: 100%;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+.heroSection {
+  width: 100%;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.categoriesSection {
+  width: 100%;
+  padding: 3rem 0;
+  background-color: #ffffff;
+  margin-bottom: 2rem;
+}
+
+.roomsSection {
+  width: 100%;
+  padding: 3rem 2.5rem;
+  background-color: #f9fafa;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1024px) {
+  .roomsSection {
+    padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .roomsSection {
+    padding: 1.5rem 0.5rem;
+  }
+}
+
+.processSection {
+  width: 100%;
+  padding: 3rem 2.5rem;
+  background-color: #ffffff;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1024px) {
+  .processSection {
+    padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .processSection {
+    padding: 1.5rem 0.5rem;
+  }
+}
+
+.testimonialsSection {
+  width: 100%;
+  padding: 3rem 2.5rem;
+  background-color: #ffffff;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 1024px) {
+  .testimonialsSection {
+    padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .testimonialsSection {
+    padding: 1.5rem 0.5rem;
+  }
+}
+
+.benefitsSection {
+  width: 100%;
+  padding: 3rem 2.5rem;
+  background-color: #f8f8f8;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1024px) {
+  .benefitsSection {
+    padding: 2rem 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .benefitsSection {
+    padding: 1.5rem 0.5rem;
+  }
+}

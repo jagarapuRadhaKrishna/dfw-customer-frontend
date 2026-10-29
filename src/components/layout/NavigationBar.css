@@ -1,0 +1,474 @@
+/* Logo container with brand name */
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+}
+
+.logo-container img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+}
+
+.brand-name {
+    font-family: 'mr-eaves-xl-modern', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #304858;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+/* .wfvhU used to wrap logo + category rows at 160px. It now wraps the logo
+   row only, so a fixed height leaves a blank gap above the category bar. */
+.VL7th .wfvhU {
+    height: auto !important;
+}
+
+.KllZJ .JB3oi .wa6H6 > li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.KllZJ .JB3oi .wa6H6 .dTPkp {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    overflow: visible;
+}
+
+.KllZJ .JB3oi .wa6H6 .dTPkp svg,
+.KllZJ .JB3oi .wa6H6 svg {
+    display: block;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    overflow: visible;
+}
+
+/* Allow sticky on the second row: ancestors must not create a scroll container */
+#app,
+.z605e,
+.VL7th,
+.wfvhU,
+.wDPf1,
+.I2SSV {
+    overflow: visible !important;
+}
+
+/*
+  Second navbar row only. It is a direct child of .z605e so it can stick
+  for the full page height (the first row stays in normal document flow).
+  
+  STICKY ONLY ON HOMEPAGE
+*/
+.z605e > .qo2Gn.sticky-homepage,
+.qo2Gn.sticky-homepage {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 50 !important;
+    box-sizing: border-box;
+    width: 100% !important;
+    max-width: none !important;
+    background-color: #fff !important;
+}
+
+/* NON-STICKY ON INNER PAGES */
+.z605e > .qo2Gn.non-sticky,
+.qo2Gn.non-sticky {
+    position: relative !important;
+    top: auto !important;
+    z-index: 50 !important;
+    box-sizing: border-box;
+    width: 100% !important;
+    max-width: none !important;
+    background-color: #fff !important;
+}
+
+.qo2Gn .OseV0 {
+    z-index: auto;
+    position: relative;
+    width: 100%;
+}
+
+.qo2Gn .Nnf8G {
+    background: #fff;
+    border-bottom: 1px solid #f2f2f2;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.08);
+    box-sizing: border-box;
+    display: flex;
+    height: 2.5rem;
+    min-height: 2.5rem;
+    max-height: 2.5rem;
+    width: 100%;
+}
+
+.qo2Gn .KwSZR {
+    display: flex;
+    flex: 1;
+    min-height: 0;
+    min-width: 0;
+    position: relative;
+    width: 100%;
+}
+
+.qo2Gn .pmv2N {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    width: 100%;
+    padding: 0 2.5rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.qo2Gn .pmv2N::-webkit-scrollbar {
+    display: none;
+}
+
+.qo2Gn .gysRT {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: clamp(0.75rem, 1.5vw, 1.5rem);
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+}
+
+.qo2Gn .zOdGP {
+    color: #212121;
+    cursor: pointer;
+    display: flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    font-family: 'mr-eaves-xl-modern', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.25;
+    white-space: nowrap;
+}
+
+.qo2Gn .P75B4 {
+    line-height: 1.25;
+    padding: 0.4em 0;
+}
+
+.qo2Gn .P75B4 a {
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+    transition: color 0.15s ease, border-bottom-color 0.15s ease;
+}
+
+.qo2Gn .P75B4:hover {
+    border-bottom: 1.5px solid #ec7744;
+    color: #ec7744;
+    cursor: pointer;
+}
+
+.qo2Gn .P75B4.WgZOC {
+    border-bottom: 1.5px solid #ec7744;
+    color: #ec7744;
+}
+
+.qo2Gn .P75B4:focus-visible {
+    outline: 2px solid #023047;
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    .qo2Gn .KwSZR {
+        display: contents;
+    }
+
+    .qo2Gn .pmv2N {
+        margin: 0 1rem;
+        padding: 0 1rem;
+    }
+
+    .qo2Gn .gysRT {
+        gap: clamp(0.5rem, 1vw, 1rem);
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .qo2Gn .pmv2N {
+        padding: 0 1.5rem;
+    }
+
+    .qo2Gn .gysRT {
+        gap: 1rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .qo2Gn .pmv2N {
+        padding: 0 1rem;
+    }
+
+    .qo2Gn .gysRT {
+        gap: 0.75rem;
+    }
+
+    .qo2Gn .zOdGP {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .qo2Gn .pmv2N {
+        margin: 0 0.5rem;
+        padding: 0 0.5rem;
+        justify-content: flex-start;
+    }
+
+    .qo2Gn .gysRT {
+        gap: 0.75rem;
+        justify-content: flex-start;
+        width: max-content;
+        max-width: none;
+    }
+
+    .qo2Gn .zOdGP {
+        font-size: 12px;
+    }
+}
+
+/* Full-width mega menu panel. Positioned absolutely below the nav bar, 
+   escaping any scroll contexts. On inner pages (non-sticky), appears naturally below.
+   On homepage (sticky), positioned fixed to avoid scrolling with nav.
+   IMPORTANT: Keep z-index WELL BELOW modals (99999) */
+.qo2Gn.sticky-homepage .mega-menu {
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    z-index: 50;
+}
+
+.qo2Gn.non-sticky .mega-menu {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    top: 100%;
+    z-index: 50;
+}
+
+.mega-menu {
+    background-color: #fff;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #dedede;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+    z-index: 50;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: opacity 0.2s ease, transform 0.2s ease, max-height 0.2s ease;
+    pointer-events: none;
+    box-sizing: border-box;
+    overflow: hidden;
+    max-height: 0;
+    display: block;
+}
+
+.mega-menu[data-visible="true"] {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.mega-menu-inner {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1.5rem;
+    padding: 1.25rem 2.5rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+    min-width: 0;
+}
+
+.mega-menu-inner::-webkit-scrollbar {
+    display: none;
+}
+
+/* Link columns */
+.mega-columns {
+    display: flex;
+    flex-shrink: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    min-width: 0;
+}
+
+.mega-column {
+    box-sizing: border-box;
+    width: 10.75rem;
+    padding: 0 0.75rem;
+    min-width: 0;
+}
+
+.mega-column + .mega-column {
+    border-left: 1px solid #e1e1e1;
+}
+
+.mega-column:first-child {
+    padding-left: 0;
+}
+
+.mega-column-heading {
+    display: block;
+    color: #373737;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.125rem;
+    text-decoration: none;
+    margin: 0 0 0.5rem;
+    padding: 0.25rem 0;
+    transition: color 0.15s ease;
+}
+
+.mega-column-heading:hover {
+    color: #ec7744;
+}
+
+.mega-column-heading:focus-visible {
+    outline: 2px solid #023047;
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+.mega-column-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mega-column-items a {
+    display: block;
+    color: #5c5c5c;
+    font-size: 0.875rem;
+    line-height: 1.125rem;
+    padding: 0.25rem 0;
+    text-decoration: none;
+    transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.mega-column-items a:hover {
+    color: #ec7744;
+    transform: translateX(4px);
+}
+
+.mega-column-items a:focus-visible {
+    outline: 2px solid #023047;
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+/* Promotional image cards (square, text baked into the asset) */
+.mega-promos {
+    display: flex;
+    flex-shrink: 0;
+    gap: 1rem;
+    margin-left: auto;
+    min-width: 0;
+}
+
+.mega-promo {
+    display: block;
+    line-height: 0;
+    min-width: 0;
+}
+
+.mega-promo img {
+    display: block;
+    width: 17.5rem;
+    height: 17.5rem;
+    max-width: 100%;
+    max-height: 17.5rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Responsive Mega Menu */
+@media (max-width: 1440px) {
+    .mega-menu-inner {
+        padding: 1.25rem 2rem;
+    }
+
+    .mega-promo img {
+        width: 15rem;
+        height: 15rem;
+        max-height: 15rem;
+    }
+}
+
+@media (max-width: 1280px) {
+    .mega-menu-inner {
+        padding: 1rem 1.5rem;
+        gap: 1rem;
+    }
+
+    .mega-column {
+        width: 10rem;
+        padding: 0 0.5rem;
+    }
+
+    .mega-promo img {
+        width: 12rem;
+        height: 12rem;
+        max-height: 12rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    .mega-menu-inner {
+        padding: 1rem;
+        gap: 0.75rem;
+    }
+
+    .mega-column {
+        width: 9rem;
+        padding: 0 0.5rem;
+    }
+
+    .mega-promo img {
+        width: 10rem;
+        height: 10rem;
+        max-height: 10rem;
+    }
+
+    .mega-promos {
+        gap: 0.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .mega-menu {
+        display: none;
+    }
+}

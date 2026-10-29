@@ -1,0 +1,649 @@
+/* Atmos Collection Main Styles */
+
+:root {
+  --atmos-primary: #1a1a1a;
+  --atmos-secondary: #8b6b47;
+  --atmos-accent: #d4a574;
+  --atmos-light: #f5f5f5;
+  --atmos-dark: #2a2a2a;
+  --atmos-rose: #c896a4;
+}
+
+/* Reset for Atmos pages only */
+.atmos-page,
+.atmos-room-page {
+  margin: 0;
+  padding: 0;
+}
+
+.atmos-page *,
+.atmos-room-page * {
+  box-sizing: border-box;
+}
+
+/* Page Container */
+.atmos-page {
+  background: var(--atmos-primary);
+  color: var(--atmos-light);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Hero Section */
+.atmos-hero {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 50%, #1a1a1a 100%);
+  overflow: hidden;
+}
+
+.atmos-hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+.atmos-hero-content {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  animation: fadeInDown 1s ease-out;
+}
+
+.atmos-hero-content h1 {
+  font-size: 120px;
+  font-weight: 300;
+  letter-spacing: 8px;
+  color: #ffffff;
+  margin-bottom: 20px;
+  text-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.atmos-hero-content p {
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #b0b0b0;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+/* About Section */
+.atmos-about {
+  padding: 80px 40px;
+  background: var(--atmos-primary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.atmos-about-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.atmos-about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.atmos-about-content h2 {
+  font-size: 48px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #ffffff;
+}
+
+.atmos-about-subtitle {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: var(--atmos-accent);
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0 !important;
+}
+
+.atmos-about-text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.atmos-about-text p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #c0c0c0;
+  font-weight: 300;
+}
+
+.atmos-about-btn {
+  align-self: flex-start;
+  padding: 15px 40px;
+  background: transparent;
+  border: 2px solid var(--atmos-accent);
+  color: var(--atmos-accent);
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.atmos-about-btn:hover {
+  background: var(--atmos-accent);
+  color: #1a1a1a;
+}
+
+.atmos-about-image {
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+.atmos-about-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.atmos-about-image:hover img {
+  transform: scale(1.05);
+}
+
+/* Category Cards Section */
+.atmos-category-cards {
+  padding: 80px 40px;
+  background: var(--atmos-primary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.atmos-category-header {
+  max-width: 1400px;
+  margin: 0 auto 60px;
+  text-align: center;
+}
+
+.atmos-category-header h2 {
+  font-size: 42px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.atmos-category-header p {
+  font-size: 14px;
+  color: #999;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.atmos-category-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 30px;
+}
+
+.atmos-category-card {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+  background: var(--atmos-dark);
+  cursor: pointer;
+  group: true;
+}
+
+.atmos-category-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.atmos-category-card:hover img {
+  transform: scale(1.1);
+  opacity: 0.7;
+}
+
+.atmos-category-card-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 30px;
+  transition: background 0.3s ease;
+  z-index: 5;
+}
+
+.atmos-category-card:hover .atmos-category-card-overlay {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.atmos-category-card-title {
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  color: #ffffff;
+  margin-bottom: 10px;
+  transition: transform 0.3s ease;
+}
+
+.atmos-category-card:hover .atmos-category-card-title {
+  transform: translateY(-10px);
+}
+
+.atmos-category-card-subtitle {
+  font-size: 12px;
+  color: #a0a0a0;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 0.3s ease;
+}
+
+.atmos-category-card:hover .atmos-category-card-subtitle {
+  transform: translateY(-5px);
+}
+
+/* Product Section */
+.atmos-product-section {
+  padding: 80px 40px;
+  background: var(--atmos-primary);
+}
+
+.atmos-product-section-header {
+  max-width: 1400px;
+  margin: 0 auto 60px;
+  text-align: center;
+}
+
+.atmos-product-section-header h2 {
+  font-size: 42px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
+
+.atmos-product-section-header p {
+  font-size: 14px;
+  color: #999;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.atmos-product-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+}
+
+.atmos-product-card {
+  position: relative;
+  height: 350px;
+  overflow: hidden;
+  background: var(--atmos-dark);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.atmos-product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.atmos-product-card:hover .atmos-product-image {
+  transform: scale(1.1);
+}
+
+.atmos-product-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%);
+  padding: 20px;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+
+.atmos-product-card:hover .atmos-product-info {
+  transform: translateY(0);
+}
+
+.atmos-product-name {
+  font-size: 16px;
+  font-weight: 400;
+  color: #ffffff;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.atmos-product-price {
+  font-size: 14px;
+  color: var(--atmos-accent);
+  letter-spacing: 1px;
+}
+
+/* Room Category Pages */
+.atmos-room-page {
+  background: var(--atmos-primary);
+  color: var(--atmos-light);
+  min-height: 100vh;
+  padding-top: 0;
+}
+
+/* Breadcrumb styling for Atmos pages */
+.atmos-room-page .breadcrumb {
+  padding: 20px 40px;
+  color: #b0b0b0;
+  background: var(--atmos-primary);
+}
+
+.atmos-room-page .breadcrumb a {
+  color: var(--atmos-accent);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.atmos-room-page .breadcrumb a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.atmos-room-page .breadcrumb-separator {
+  margin: 0 8px;
+  color: #888;
+}
+
+.atmos-room-hero {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+  overflow: hidden;
+  margin-bottom: 0;
+}
+
+.atmos-room-hero img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.6;
+}
+
+.atmos-room-hero-content {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+}
+
+.atmos-room-hero-content h1 {
+  font-size: 56px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #ffffff;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.atmos-room-products {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/* Atmos-specific filter bar styling */
+.atmos-filter-section {
+  position: relative !important;
+  top: auto !important;
+  z-index: 1 !important;
+  background: var(--atmos-dark) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  margin-bottom: 32px;
+  margin-top: 32px;
+}
+
+.atmos-filter-section .filter-bar {
+  background: var(--atmos-dark) !important;
+}
+
+.atmos-filter-section .all-filters-btn,
+.atmos-filter-section .filter-button {
+  background: transparent !important;
+  color: var(--atmos-light) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.atmos-filter-section .all-filters-btn:hover,
+.atmos-filter-section .filter-button:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  color: var(--atmos-accent) !important;
+  border-color: var(--atmos-accent) !important;
+}
+
+.atmos-filter-section .dropdown-menu {
+  background: var(--atmos-dark) !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+  color: var(--atmos-light) !important;
+}
+
+.atmos-filter-section .dropdown-item {
+  color: var(--atmos-light) !important;
+}
+
+.atmos-filter-section .dropdown-item:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.atmos-filter-section .dropdown-item input[type="checkbox"] {
+  accent-color: var(--atmos-accent) !important;
+}
+
+.atmos-products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.atmos-product-tile {
+  position: relative;
+  height: 330px;
+  overflow: hidden;
+  background: var(--atmos-dark);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.atmos-product-tile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.atmos-product-tile:hover img {
+  transform: scale(1.1);
+}
+
+.atmos-product-tile-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 15px;
+  transition: background 0.3s ease;
+}
+
+.atmos-product-tile:hover .atmos-product-tile-info {
+  background: rgba(0, 0, 0, 0.95);
+}
+
+.atmos-product-tile-name {
+  font-size: 14px;
+  font-weight: 400;
+  color: #ffffff;
+  margin-bottom: 5px;
+  line-height: 1.3;
+}
+
+.atmos-product-tile-desc {
+  font-size: 12px;
+  color: #999;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+
+.atmos-product-tile-price {
+  font-size: 13px;
+  color: var(--atmos-accent);
+  font-weight: 500;
+}
+
+/* Atmos-specific product card overrides */
+.atmos-products-grid .product-card {
+  background: var(--atmos-dark) !important;
+  border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.atmos-products-grid .product-card:hover {
+  border-color: var(--atmos-accent) !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3) !important;
+}
+
+.atmos-products-grid .product-title {
+  color: var(--atmos-light) !important;
+}
+
+.atmos-products-grid .sale-price {
+  color: var(--atmos-accent) !important;
+}
+
+.atmos-products-grid .mrp {
+  color: #888 !important;
+}
+
+.atmos-products-grid .product-image-wrapper {
+  background: var(--atmos-dark) !important;
+}
+
+/* Footer */
+.atmos-footer {
+  background: var(--atmos-dark);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 40px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.atmos-footer p {
+  font-size: 12px;
+  color: #999;
+  letter-spacing: 1px;
+}
+
+/* Animations */
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .atmos-hero-content h1 {
+    font-size: 60px;
+    letter-spacing: 4px;
+  }
+
+  .atmos-about-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .atmos-about-content h2 {
+    font-size: 32px;
+  }
+
+  .atmos-category-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .atmos-product-grid {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+
+  .atmos-room-hero-content h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 480px) {
+  .atmos-hero-content h1 {
+    font-size: 42px;
+    letter-spacing: 2px;
+  }
+
+  .atmos-about {
+    padding: 40px 20px;
+  }
+
+  .atmos-category-grid,
+  .atmos-product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .atmos-product-info {
+    position: relative;
+    transform: translateY(0);
+  }
+
+  .atmos-room-hero {
+    height: 250px;
+  }
+}
