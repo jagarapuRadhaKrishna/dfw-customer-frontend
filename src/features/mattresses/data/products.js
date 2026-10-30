@@ -1,6 +1,6 @@
 /**
  * Mattresses - Complete Product Data
- * Extracted from Urban Ladder mattresses collection
+ * Extracted from Divya Furniture World mattresses collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const mattressesProducts = [
     href: "/product/essential-memory-foam-queen-size-mattress-7554598",
     slug: "essential-memory-foam-queen-size-mattress-7554598",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹28,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -29,7 +29,7 @@ export const mattressesProducts = [
     href: "/product/cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554612",
     slug: "cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554612",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹24,999",
     mrp: "₹41,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const mattressesProducts = [
     href: "/product/simplywud-essential-mattress-single-colour-white-grey-8148070-9420568",
     slug: "simplywud-essential-mattress-single-colour-white-grey-8148070-9420568",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,999",
     mrp: "₹14,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const mattressesProducts = [
     href: "/product/simplywud-basic-coir-mattress-single-8115876-9420572",
     slug: "simplywud-basic-coir-mattress-single-8115876-9420572",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹7,999",
     mrp: "₹13,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const mattressesProducts = [
     href: "/product/simplywud-classic-foam-mattress-queen-8115873-9420566",
     slug: "simplywud-classic-foam-mattress-queen-8115873-9420566",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹19,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const mattressesProducts = [
     href: "/product/theramedic-memory-foam-king-size-mattress-with-latex-7554609",
     slug: "theramedic-memory-foam-king-size-mattress-with-latex-7554609",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹28,999",
     mrp: "₹48,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const mattressesProducts = [
     href: "/product/cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554608",
     slug: "cloud-pocket-spring-king-size-mattress-with-memory-foam-eurotop-7554608",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹31,999",
     mrp: "₹53,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const mattressesProducts = [
     href: "/product/aer-latex-queen-size-mattress-7554602",
     slug: "aer-latex-queen-size-mattress-7554602",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,999",
     mrp: "₹33,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const mattressesProducts = [
     href: "/product/simplywud-essential-mattress-queen-colour-white-grey-8148071-9420561",
     slug: "simplywud-essential-mattress-queen-colour-white-grey-8148071-9420561",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹12,999",
     mrp: "₹21,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const mattressesProducts = [
     href: "/product/dreamlite-bonnel-spring-king-size-mattress-with-eurotop-7554620",
     slug: "dreamlite-bonnel-spring-king-size-mattress-with-eurotop-7554620",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹31,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const mattressesProducts = [
     href: "/product/simplywud-basic-coir-mattress-queen-8115874-9420569",
     slug: "simplywud-basic-coir-mattress-queen-8115874-9420569",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹10,999",
     mrp: "₹18,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const mattressesProducts = [
     href: "/product/simplywud-classic-foam-mattress-single-8115875-9420574",
     slug: "simplywud-classic-foam-mattress-single-8115875-9420574",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,499",
     mrp: "₹15,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const mattressesProducts = [
 ];
 
 export const MATTRESSES_COUNT = mattressesProducts.length;
+

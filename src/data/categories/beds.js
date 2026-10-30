@@ -4,73 +4,74 @@ export const bedsData = {
   breadcrumbs: [
   {
     "name": "Home",
-    "url": "https://www.urbanladder.com/"
+    "url": "/"
   },
   {
     "name": "Bedroom",
-    "url": "https://www.urbanladder.com/products/?l1_category=bedroom-mattresses"
+    "url": "/products/?l1_category=bedroom-mattresses"
   }
 ],
   products: [
   {
     "position": 1,
     "name": "Hanoi Solid Wood Cane Queen Size Bed With Hydraulic Storage (Amber Walnut Finish, Shitake Beige Colour)",
-    "url": "https://www.urbanladder.com/product/hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fabric-shitake-beige-fabric-8395371"
+    "url": "/product/hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fabric-shitake-beige-fabric-8395371"
   },
   {
     "position": 2,
     "name": "Toledo Solid Wood Queen Size Bed With Hydraulic Storage (Danish Walnut Finish)",
-    "url": "https://www.urbanladder.com/product/toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-8425967"
+    "url": "/product/toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-8425967"
   },
   {
     "position": 3,
     "name": "Stanhope Engineered Wood Queen Size Bed With Hydraulic Storage (Shitake Beige Colour)",
-    "url": "https://www.urbanladder.com/product/stanhope-upholestry-hydraulic-king-size-bed-in-shitake-beige-premium-chenille-8315053"
+    "url": "/product/stanhope-upholestry-hydraulic-king-size-bed-in-shitake-beige-premium-chenille-8315053"
   },
   {
     "position": 4,
     "name": "Duetto Solid Wood Queen Size Bed Without Storage (Two-Tone Finish)",
-    "url": "https://www.urbanladder.com/product/duetto-solid-wood-queen-size-bed-in-two-tone-finish-7520680"
+    "url": "/product/duetto-solid-wood-queen-size-bed-in-two-tone-finish-7520680"
   },
   {
     "position": 5,
     "name": "Amy Engineered Wood Queen Size Bed With Box Storage (Classic Walnut Finish, Brown Colour)",
-    "url": "https://www.urbanladder.com/product/amy-engineered-wood-queen-size-box-storage-bed-in-classic-walnut-finish-7520709-9420534"
+    "url": "/product/amy-engineered-wood-queen-size-box-storage-bed-in-classic-walnut-finish-7520709-9420534"
   },
   {
     "position": 6,
     "name": "Eden Upholstered Queen Size Hydraulic Storage  Bed In Berry Orchid Colour with Danish Walnut Finish",
-    "url": "https://www.urbanladder.com/product/eden-upholstered-queen-size-hydraulic-storage-bed-in-berry-orchid-colour-with-danish-walnut-finish-10460064"
+    "url": "/product/eden-upholstered-queen-size-hydraulic-storage-bed-in-berry-orchid-colour-with-danish-walnut-finish-10460064"
   },
   {
     "position": 7,
     "name": "Kaarya Engineered Wood Queen Size Bed With Box Storage in Wheat Brown Walnut Finish",
-    "url": "https://www.urbanladder.com/product/kaarya-engineered-wood-queen-size-bed-with-box-storage-in-wheat-brown-walnut-finish-10470310"
+    "url": "/product/kaarya-engineered-wood-queen-size-bed-with-box-storage-in-wheat-brown-walnut-finish-10470310"
   },
   {
     "position": 8,
     "name": "Milan Engineered Wood Queen Size Bed With Hydraulic Storage (Deep Olive Velvet Colour)",
-    "url": "https://www.urbanladder.com/product/milan-engineered-wood-queen-size-beds-with-storage-in-deep-olive-velvet-9227451"
+    "url": "/product/milan-engineered-wood-queen-size-beds-with-storage-in-deep-olive-velvet-9227451"
   },
   {
     "position": 9,
     "name": "Basel Solid Wood Queen Size Non Storage Bed In Amber Walnut Finish",
-    "url": "https://www.urbanladder.com/product/basel-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428104"
+    "url": "/product/basel-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428104"
   },
   {
     "position": 10,
     "name": "Fiji Wingback Cane and Solid Wood Queen Size Hydraulic-Storage Bed in Nappa tan Leatherette",
-    "url": "https://www.urbanladder.com/product/fiji-wingback-cane-and-solid-wood-queen-size-hydraulic-storage-bed-in-nappa-tan-leatherette-10358611"
+    "url": "/product/fiji-wingback-cane-and-solid-wood-queen-size-hydraulic-storage-bed-in-nappa-tan-leatherette-10358611"
   },
   {
     "position": 11,
     "name": "Koro Solid Wood Queen Size Non Storage Bed In Amber Walnut Finish",
-    "url": "https://www.urbanladder.com/product/koro-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428111"
+    "url": "/product/koro-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428111"
   },
   {
     "position": 12,
     "name": "Cambry Queen Size Hydraulic Storage Bed With Headboard Storage In Honey Finish",
-    "url": "https://www.urbanladder.com/product/cambry-queen-size-storage-hydraulic-storage-bed-with-headboard-storage-in-honey-finish-8315057"
+    "url": "/product/cambry-queen-size-storage-hydraulic-storage-bed-with-headboard-storage-in-honey-finish-8315057"
   }
 ]
 };
+

@@ -71,7 +71,7 @@
 .qo2Gn.sticky-homepage {
     position: sticky !important;
     top: 0 !important;
-    z-index: 50 !important;
+    z-index: 200 !important;
     box-sizing: border-box;
     width: 100% !important;
     max-width: none !important;
@@ -83,7 +83,7 @@
 .qo2Gn.non-sticky {
     position: relative !important;
     top: auto !important;
-    z-index: 50 !important;
+    z-index: 200 !important;
     box-sizing: border-box;
     width: 100% !important;
     max-width: none !important;
@@ -261,7 +261,7 @@
     right: 0;
     width: 100vw;
     margin-left: calc(-50vw + 50%);
-    z-index: 50;
+    z-index: 200;
 }
 
 .qo2Gn.non-sticky .mega-menu {
@@ -270,7 +270,7 @@
     right: 0;
     width: 100%;
     top: 100%;
-    z-index: 50;
+    z-index: 200;
 }
 
 .mega-menu {
@@ -278,7 +278,7 @@
     border-top: 1px solid #f2f2f2;
     border-bottom: 1px solid #dedede;
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
-    z-index: 50;
+    z-index: 200;
     opacity: 0;
     transform: translateY(-10px);
     transition: opacity 0.2s ease, transform 0.2s ease, max-height 0.2s ease;

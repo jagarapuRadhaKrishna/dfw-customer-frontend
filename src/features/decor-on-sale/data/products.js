@@ -6,7 +6,7 @@ export const decorOnSaleProducts = [
     title: "Paleo Solid Wood Corner Bookshelf in Danish Walnut Finish",
     href: "/product/paleo-solid-wood-corner-bookshelf-danish-walnut-dos001",
     badge: "Sale",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹12,999",
     mrp: "₹24,999",
     image: "/images/decor-on-sale/products/paleo-corner-bookshelf.webp",
@@ -46,7 +46,7 @@ export const decorOnSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Wood verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
     ]
   },
   {
@@ -54,7 +54,7 @@ export const decorOnSaleProducts = [
     title: "Lyra Solid Wood Showcase in Walnut Finish",
     href: "/product/lyra-solid-wood-showcase-walnut-dos002",
     badge: "Sale",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹32,999",
     image: "/images/decor-on-sale/products/lyra-showcase.webp",
@@ -94,7 +94,7 @@ export const decorOnSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Wood verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.8 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.8 km" }
     ]
   },
   {
@@ -102,7 +102,7 @@ export const decorOnSaleProducts = [
     title: "Nirvana Wooden Wall Shelf in Teak Finish",
     href: "/product/nirvana-wooden-wall-shelf-teak-dos003",
     badge: "Sale",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹4,999",
     mrp: "₹8,999",
     image: "/images/decor-on-sale/products/nirvana-wall-shelf.webp",
@@ -142,7 +142,7 @@ export const decorOnSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.2 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.2 km" }
     ]
   },
   {
@@ -150,7 +150,7 @@ export const decorOnSaleProducts = [
     title: "Serenity Prayer Unit in White Finish",
     href: "/product/serenity-prayer-unit-white-dos004",
     badge: "Sale",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹7,999",
     mrp: "₹14,999",
     image: "/images/decor-on-sale/products/serenity-prayer-unit.webp",
@@ -190,7 +190,7 @@ export const decorOnSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
     ]
   },
   {
@@ -198,7 +198,7 @@ export const decorOnSaleProducts = [
     title: "Aura Room Divider in Natural Finish",
     href: "/product/aura-room-divider-natural-dos005",
     badge: "Sale",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,999",
     mrp: "₹18,999",
     image: "/images/decor-on-sale/products/aura-room-divider.webp",
@@ -238,7 +238,7 @@ export const decorOnSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Wood verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Main", address: "250 Central Avenue", distance: "4.8 km" }
+      { name: "Divya Furniture World - Main", address: "250 Central Avenue", distance: "4.8 km" }
     ]
   },
   {
@@ -246,7 +246,7 @@ export const decorOnSaleProducts = [
     title: "Luna Floating Wall Shelf Set in Walnut Finish",
     href: "/product/luna-floating-wall-shelf-set-walnut-dos006",
     badge: "Sale",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹5,999",
     mrp: "₹10,999",
     image: "/images/decor-on-sale/products/luna-floating-shelf.webp",
@@ -286,7 +286,9 @@ export const decorOnSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
     ]
   }
 ];
+
+

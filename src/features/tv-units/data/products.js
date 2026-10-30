@@ -1,6 +1,6 @@
 /**
  * TV Units - Complete Product Data
- * Extracted from Urban Ladder tv-units collection
+ * Extracted from Divya Furniture World tv-units collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const tvUnitsProducts = [
     href: "/product/linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206",
     slug: "linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹31,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -29,7 +29,7 @@ export const tvUnitsProducts = [
     href: "/product/baltoro-engineered-wood-sideboard-in-white-finish-7520328",
     slug: "baltoro-engineered-wood-sideboard-in-white-finish-7520328",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹27,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -47,7 +47,7 @@ export const tvUnitsProducts = [
     href: "/product/dorian-engineered-wood-tv-unit-with-ceramic-top-in-taupe-high-gloss-finish-8340209",
     slug: "dorian-engineered-wood-tv-unit-with-ceramic-top-in-taupe-high-gloss-finish-8340209",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹22,999",
     mrp: "₹37,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -65,7 +65,7 @@ export const tvUnitsProducts = [
     href: "/product/tavo-solid-wood-and-banswara-tv-unit-in-golden-ash-finish-9954027",
     slug: "tavo-solid-wood-and-banswara-tv-unit-in-golden-ash-finish-9954027",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹24,999",
     mrp: "₹40,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -83,7 +83,7 @@ export const tvUnitsProducts = [
     href: "/product/roxanne-engineered-wood-tv-unit-in-dark-walnut-finish-8340210",
     slug: "roxanne-engineered-wood-tv-unit-in-dark-walnut-finish-8340210",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,999",
     mrp: "₹32,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -101,7 +101,7 @@ export const tvUnitsProducts = [
     href: "/product/vita-solid-wood-tv-cabinet-in-danish-walnut-finish-8340211",
     slug: "vita-solid-wood-tv-cabinet-in-danish-walnut-finish-8340211",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹21,999",
     mrp: "₹35,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -119,7 +119,7 @@ export const tvUnitsProducts = [
     href: "/product/milano-engineered-wood-tv-unit-with-glass-top-in-black-finish-8340212",
     slug: "milano-engineered-wood-tv-unit-with-glass-top-in-black-finish-8340212",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹20,999",
     mrp: "₹34,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -137,7 +137,7 @@ export const tvUnitsProducts = [
     href: "/product/ethan-solid-wood-tv-cabinet-in-red-cedar-finish-9333207",
     slug: "ethan-solid-wood-tv-cabinet-in-red-cedar-finish-9333207",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹23,999",
     mrp: "₹39,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -155,7 +155,7 @@ export const tvUnitsProducts = [
     href: "/product/harper-engineered-wood-tv-unit-in-natural-white-finish-9333208",
     slug: "harper-engineered-wood-tv-unit-in-natural-white-finish-9333208",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹17,999",
     mrp: "₹29,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -173,7 +173,7 @@ export const tvUnitsProducts = [
     href: "/product/saxon-solid-wood-tv-cabinet-in-two-tone-finish-9333209",
     slug: "saxon-solid-wood-tv-cabinet-in-two-tone-finish-9333209",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹21,999",
     mrp: "₹36,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -191,7 +191,7 @@ export const tvUnitsProducts = [
     href: "/product/fujiwara-solid-wood-free-standing-tv-unit-in-amber-walnut-finish-9333210",
     slug: "fujiwara-solid-wood-free-standing-tv-unit-in-amber-walnut-finish-9333210",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹25,999",
     mrp: "₹42,999",
     image: "/images/new-arrivals/products/39-linnea-solid-wood-tv-cabinet-in-amber-walnut-finish-9333206.avif",
@@ -206,3 +206,4 @@ export const tvUnitsProducts = [
 ];
 
 export const TV_UNITS_COUNT = tvUnitsProducts.length;
+

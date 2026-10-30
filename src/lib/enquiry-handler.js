@@ -230,7 +230,10 @@ export async function submitEnquiry(enquiry) {
     });
 
     if (!response.ok) {
-      throw new Error(`API error: ${response.statusText}`);
+      const error = new Error(`API error: ${response.statusText}`);
+      error.status = response.status;
+      error.response = response;
+      throw error;
     }
 
     return await response.json();

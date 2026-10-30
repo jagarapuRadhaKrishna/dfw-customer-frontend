@@ -1,6 +1,6 @@
 /**
  * Bookshelves - Complete Product Data
- * Extracted from Urban Ladder bookshelves collection
+ * Extracted from Divya Furniture World bookshelves collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const bookshelvesProducts = [
     href: "/product/megan-engineered-wood-bookshelf-in-classic-walnut-finish-7518821-9420652",
     slug: "megan-engineered-wood-bookshelf-in-classic-walnut-finish-7518821-9420652",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,999",
     mrp: "₹14,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -29,7 +29,7 @@ export const bookshelvesProducts = [
     href: "/product/paleo-solid-wood-corner-bookshelf-in-danish-walnut-finish-9746369",
     slug: "paleo-solid-wood-corner-bookshelf-in-danish-walnut-finish-9746369",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹12,999",
     mrp: "₹21,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const bookshelvesProducts = [
     href: "/product/brisa-solid-wood-and-cane-corner-bookshelf-in-danish-walnut-finish-9896447",
     slug: "brisa-solid-wood-and-cane-corner-bookshelf-in-danish-walnut-finish-9896447",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹24,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const bookshelvesProducts = [
     href: "/product/miles-engineered-wood-bookshelf-in-classic-walnut-finish-7518825-9420656",
     slug: "miles-engineered-wood-bookshelf-in-classic-walnut-finish-7518825-9420656",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,999",
     mrp: "₹16,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const bookshelvesProducts = [
     href: "/product/paxton-bookshelf-finish-amber-walnut-8340141",
     slug: "paxton-bookshelf-finish-amber-walnut-8340141",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹19,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const bookshelvesProducts = [
     href: "/product/malabar-bookshelf-display-cabinet-55-book-capacity-amber-walnut-metal-channel-8602675",
     slug: "malabar-bookshelf-display-cabinet-55-book-capacity-amber-walnut-metal-channel-8602675",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹15,999",
     mrp: "₹26,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const bookshelvesProducts = [
     href: "/product/takai-solid-wood-and-cane-bookshelf-table-in-red-cedar-finish-8861197",
     slug: "takai-solid-wood-and-cane-bookshelf-table-in-red-cedar-finish-8861197",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹13,999",
     mrp: "₹23,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const bookshelvesProducts = [
     href: "/product/torin-solid-wood-bookshelf-in-danish-walnut-finish-9275532",
     slug: "torin-solid-wood-bookshelf-in-danish-walnut-finish-9275532",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹10,999",
     mrp: "₹18,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const bookshelvesProducts = [
     href: "/product/murano-bookshelf-cum-display-unit-finish-mango-walnut-8115710",
     slug: "murano-bookshelf-cum-display-unit-finish-mango-walnut-8115710",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹28,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const bookshelvesProducts = [
     href: "/product/paige-engineered-wood-bookshelf-in-frosty-white-finish-7518830",
     slug: "paige-engineered-wood-bookshelf-in-frosty-white-finish-7518830",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹7,999",
     mrp: "₹13,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const bookshelvesProducts = [
     href: "/product/elliot-engineered-wood-bookshelf-in-classic-walnut-finish-7518824",
     slug: "elliot-engineered-wood-bookshelf-in-classic-walnut-finish-7518824",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,499",
     mrp: "₹14,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const bookshelvesProducts = [
     href: "/product/austen-bookshelf-display-unit-45-book-capacity-finish-amber-walnut-8503645",
     slug: "austen-bookshelf-display-unit-45-book-capacity-finish-amber-walnut-8503645",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹25,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const bookshelvesProducts = [
 ];
 
 export const BOOKSHELVES_COUNT = bookshelvesProducts.length;
+

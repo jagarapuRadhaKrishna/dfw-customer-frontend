@@ -4,6 +4,8 @@ import { bestBuysProducts } from '@/features/best-buys/data/products';
 import { newArrivalProducts } from '@/features/newarrivals/data/products';
 import { generatePageMetadata } from '@/lib/metadata-generator';
 
+export const dynamicParams = false;
+
 function formatTitle(slug) {
   return slug
     .split('-')

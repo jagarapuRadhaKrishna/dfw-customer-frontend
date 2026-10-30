@@ -19,7 +19,7 @@ export default function StoreDetails({
         <div className="VbuYj">
           <div className="ODjOK">
             <h1 className="abH4v">{name}</h1>
-            <div className="Sw3N_">{address || 'Bhimavaram, Andhra Pradesh, India'}</div>
+            {address && <div className="Sw3N_">{address}</div>}
             {hours && <div className="jIAuv">{hours}</div>}
             {email && <div className="xS7XS">Email: {email}</div>}
           </div>

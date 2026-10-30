@@ -31,7 +31,7 @@ export default function RentalPage() {
     {
       icon: '📍',
       title: 'Selected Locations',
-      description: 'Rental availability is listed for Bhimavaram and Hyderabad; confirm details with our team.'
+      description: 'Ask our team about rental availability in your area.'
     }
   ];
 
@@ -83,7 +83,7 @@ export default function RentalPage() {
             Rent Quality Furniture
           </h1>
           <p style={{ fontSize: '18px', color: '#666', maxWidth: '600px', margin: '0 auto' }}>
-            Ask about furniture rental options in Bhimavaram and Hyderabad. Availability, pricing, terms, and delivery arrangements depend on the product and location.
+            Ask about furniture rental options in your area. Availability, pricing, terms, and delivery arrangements depend on the product and location.
           </p>
         </section>
 

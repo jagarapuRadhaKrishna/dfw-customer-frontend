@@ -1,6 +1,6 @@
 /**
  * Wardrobes - Complete Product Data
- * Extracted from Urban Ladder wardrobes collection
+ * Extracted from Divya Furniture World wardrobes collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const wardrobesProducts = [
     href: "/product/zoey-engineered-wood-3-door-wardrobe-in-classic-walnut-finish-7519288-9420886",
     slug: "zoey-engineered-wood-3-door-wardrobe-in-classic-walnut-finish-7519288-9420886",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹24,999",
     mrp: "₹41,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -29,7 +29,7 @@ export const wardrobesProducts = [
     href: "/product/rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174",
     slug: "rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹28,999",
     mrp: "₹47,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -47,7 +47,7 @@ export const wardrobesProducts = [
     href: "/product/bennis-engineered-wood-3-door-wardrobe-without-mirror-in-dark-walnut-finish-7519289",
     slug: "bennis-engineered-wood-3-door-wardrobe-without-mirror-in-dark-walnut-finish-7519289",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹22,999",
     mrp: "₹37,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -65,7 +65,7 @@ export const wardrobesProducts = [
     href: "/product/megan-engineered-wood-2-door-wardrobe-in-frosty-white-finish-7519290",
     slug: "megan-engineered-wood-2-door-wardrobe-in-frosty-white-finish-7519290",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹31,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -83,7 +83,7 @@ export const wardrobesProducts = [
     href: "/product/miles-engineered-wood-4-door-wardrobe-in-classic-walnut-finish-7519291",
     slug: "miles-engineered-wood-4-door-wardrobe-in-classic-walnut-finish-7519291",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹31,999",
     mrp: "₹52,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -101,7 +101,7 @@ export const wardrobesProducts = [
     href: "/product/paxton-solid-wood-wardrobe-in-amber-walnut-finish-7519292",
     slug: "paxton-solid-wood-wardrobe-in-amber-walnut-finish-7519292",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹35,999",
     mrp: "₹59,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -119,7 +119,7 @@ export const wardrobesProducts = [
     href: "/product/austen-engineered-wood-3-door-wardrobe-with-mirror-in-dark-wenge-finish-7519293",
     slug: "austen-engineered-wood-3-door-wardrobe-with-mirror-in-dark-wenge-finish-7519293",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹25,999",
     mrp: "₹42,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -137,7 +137,7 @@ export const wardrobesProducts = [
     href: "/product/harper-engineered-wood-2-door-compact-wardrobe-in-white-finish-7519294",
     slug: "harper-engineered-wood-2-door-compact-wardrobe-in-white-finish-7519294",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹17,999",
     mrp: "₹29,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -155,7 +155,7 @@ export const wardrobesProducts = [
     href: "/product/owen-solid-wood-3-door-wardrobe-in-red-cedar-finish-7519295",
     slug: "owen-solid-wood-3-door-wardrobe-in-red-cedar-finish-7519295",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹29,999",
     mrp: "₹49,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -173,7 +173,7 @@ export const wardrobesProducts = [
     href: "/product/niyo-engineered-wood-3-door-wardrobe-in-two-tone-finish-7519296",
     slug: "niyo-engineered-wood-3-door-wardrobe-in-two-tone-finish-7519296",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹23,999",
     mrp: "₹39,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -191,7 +191,7 @@ export const wardrobesProducts = [
     href: "/product/morgen-engineered-wood-3-door-wardrobe-with-drawers-in-classic-walnut-finish-7519297",
     slug: "morgen-engineered-wood-3-door-wardrobe-with-drawers-in-classic-walnut-finish-7519297",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹26,999",
     mrp: "₹44,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -209,7 +209,7 @@ export const wardrobesProducts = [
     href: "/product/rodrigues-3-door-wardrobe-in-rolex-brown-finish-7519298",
     slug: "rodrigues-3-door-wardrobe-in-rolex-brown-finish-7519298",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹32,999",
     mrp: "₹54,999",
     image: "/images/new-arrivals/products/29-rodrigues-3-door-wardrobe-in-sheesham-paper-finish-8340174.webp",
@@ -224,3 +224,4 @@ export const wardrobesProducts = [
 ];
 
 export const WARDROBES_COUNT = wardrobesProducts.length;
+

@@ -49,7 +49,7 @@ export function generateProductMetadata(product, options = {}) {
     description,
     robots: { index: true, follow: true, 'max-image-preview': 'large' },
     alternates: { canonical },
-    ...createSocialMetadata(title, description, canonical, image, 'product'),
+    ...createSocialMetadata(title, description, canonical, image, 'website'),
   };
 }
 

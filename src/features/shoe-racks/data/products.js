@@ -1,6 +1,6 @@
 /**
  * Shoe Racks - Complete Product Data
- * Extracted from Urban Ladder shoe racks collection
+ * Extracted from Divya Furniture World shoe racks collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const shoeRacksProducts = [
     href: "/product/bennis-25-pair-shoe-rack-in-dark-walnut-finish-7519250",
     slug: "bennis-25-pair-shoe-rack-in-dark-walnut-finish-7519250",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹12,999",
     mrp: "₹21,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -29,7 +29,7 @@ export const shoeRacksProducts = [
     href: "/product/webster-48-pair-shoe-rack-in-walnut-finish-7519245",
     slug: "webster-48-pair-shoe-rack-in-walnut-finish-7519245",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹31,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const shoeRacksProducts = [
     href: "/product/alex-21-pair-shoe-cabinet-in-classic-walnut-finish-9283675-9420837",
     slug: "alex-21-pair-shoe-cabinet-in-classic-walnut-finish-9283675-9420837",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹24,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const shoeRacksProducts = [
     href: "/product/fujiwara-solidwood-and-cane-shoe-cabinet-with-drawer-in-amber-walnut-finish-9750447",
     slug: "fujiwara-solidwood-and-cane-shoe-cabinet-with-drawer-in-amber-walnut-finish-9750447",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹28,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const shoeRacksProducts = [
     href: "/product/baltoro-20-pair-shoe-rack-in-white-finish-7519253",
     slug: "baltoro-20-pair-shoe-rack-in-white-finish-7519253",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹19,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const shoeRacksProducts = [
     href: "/product/oslo-high-gloss-21-pair-shoe-rack-in-white-finish-7519251",
     slug: "oslo-high-gloss-21-pair-shoe-rack-in-white-finish-7519251",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹13,999",
     mrp: "₹23,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const shoeRacksProducts = [
     href: "/product/haven-solid-wood-shoe-cabinet-in-honey-finish-with-olive-leatherette-colour-10248908",
     slug: "haven-solid-wood-shoe-cabinet-in-honey-finish-with-olive-leatherette-colour-10248908",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹17,999",
     mrp: "₹29,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const shoeRacksProducts = [
     href: "/product/hayes-18-pair-shoe-rack-in-classic-walnut-finish-7519226-9420840",
     slug: "hayes-18-pair-shoe-rack-in-classic-walnut-finish-7519226-9420840",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹10,999",
     mrp: "₹18,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const shoeRacksProducts = [
     href: "/product/madden-shoe-cabinet-finish-amber-walnut-8340159",
     slug: "madden-shoe-cabinet-finish-amber-walnut-8340159",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹15,999",
     mrp: "₹26,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const shoeRacksProducts = [
     href: "/product/carlem-engineered-wood-3-doors-shoe-rack-cabinet-slipper-footwear-stand-organizer-with-two-adjustable-shelves-store-up-to-16-pairs-for-home-brown-maple-8116802",
     slug: "carlem-engineered-wood-3-doors-shoe-rack-cabinet-slipper-footwear-stand-organizer-with-two-adjustable-shelves-store-up-to-16-pairs-for-home-brown-maple-8116802",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹13,499",
     mrp: "₹22,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const shoeRacksProducts = [
     href: "/product/baltoro-engineered-wood-tall-shoe-rack-with-seating-in-white-finish-9832385",
     slug: "baltoro-engineered-wood-tall-shoe-rack-with-seating-in-white-finish-9832385",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹28,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const shoeRacksProducts = [
     href: "/product/levi-shoe-rack-in-dark-wenge-finish-7519254-9420836",
     slug: "levi-shoe-rack-in-dark-wenge-finish-7519254-9420836",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,499",
     mrp: "₹19,299",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const shoeRacksProducts = [
 ];
 
 export const SHOE_RACKS_COUNT = shoeRacksProducts.length;
+

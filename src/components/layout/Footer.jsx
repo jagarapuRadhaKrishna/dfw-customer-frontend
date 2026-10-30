@@ -153,11 +153,11 @@ export default function Footer() {
                                 <h2 className="Gbrcu evhMv">Download Our App</h2>
                                 <div className="x7ZEB"></div>
                                 <ul className="VZHJI">
-                                    <li><a href="https://apps.apple.com/us/app/urban-ladder/id959886087"
+                                    <li><a href="https://apps.apple.com/us/app/divya-furniture/id000000000"
                                             target="_blank"><img
                                                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAjCAMAAABPXb88AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACHUExURUBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUVFQAAAAAAACUlJRISEiQkJBISEjMzM////+/v7+Dg4N/f39DQ0M/Pz8DAwL+/v7CwsK+vr6CgoJ+fn5CQkI+Pj4CAgH9/f3BwcGBgYF9fX1BQUE9PTzAwMCAgIBAQEAAAANYKCFoAAAAUdFJOU/8AECBAUGBwgJCgsL+/wN/f4ODvLVkp/wAAAvhJREFUeNq9lYtupDgQRYud2Uwem80+bqUCBkPc9nhs1/9/39qgtIiSnmRH6j4IQZWudHCpJKjruqv7Bzoj/95fVQl1X/44MM7L/PCliu57nB356zf6PeACLNd02+MC8D3d4yI80N+4CPSeaGAcGe0ob5ZIsGPBKxhwnxNJVoMjycyJwU9gBuOxvgmCaY16M/DEhErt8lrDWxAPAA8fibLmfQBwdorBGTcQSLJLHExrILoEH3wTeU/9TI4ApsDkohVa4s9Fs6p9LVps7JE4+mC8RAQTDNUGRpeRwIR2j2G2yACcAWFwS3Tp8aeihQx2EDiLN0yI3pCRUEXt4jREJiTuN9HsX0TjJnJ4winREFMcMficggAbPygaSIg95hkRsuDQH3qh2HMMEYasBzBR5MngB4A+skc/w8fnUyKnO8z51nvWHVnOJ0onDsR2xGkG54b/J2LdkV6tYWGcQLKWmmZgkM+KBt0R95GiC05AaoBndRB1nxWJ7iAcEbXUSrE8OMvAOLJ9GdcW9AdZNFqArbOyRpcJGGvx0ehUdpMTp9yeQYtmAeVUino0crFo9FlLhmStV1+jUYMkzSX3Hy1DkmObtrnMTfKsHqQH4LuaVVC0kBVsEcoCybmJGEH7WtA7Iqd7MjZ6tS3VRLblC0gZEPVoyByra1pFrAGA035WA2QahiEovxWx7iFsBE1ERU0VmbUEZVQ04IW5Te24EDW3RrXkxuNbEbzumLCRs3POq9udqBxPJK5HhXSV8NpbNhFKOPmb4KxH/HHp7RorVZQEkwaQeiDoCIBLFqDPaRNTEXDOWEWxFvDpPRGkmgqRqiY+Tk5Qce0zY8nr1pVcin5H41mVkhYBF03VqFTKtImkFlkP74ogy8SATDNeWCwa7No8JrcwQJlnN2FDXAgLry8OkHlN9E4AcC0M9qLPUUVYoYxfgOifS4nuGJfggW4MLoDc0VfCBfBX1F07nB1701HXXdP4xDgb/DjSTddE3Zdvt3+ej7vbb1+7rvsPZxY5qs2kY64AAAAASUVORK5CYII="
                                                 alt="Download on the App Store" /></a></li>
-                                    <li><a href="https://play.google.com/store/apps/details?id=com.urbanladder.catalog"
+                                    <li><a href="https://play.google.com/store/apps/details?id=com.divyafurniture.catalog"
                                             target="_blank"><img
                                                 src="data:image/avif;base64,AAAAHGZ0eXBhdmlmAAAAAG1pZjFhdmlmbWlhZgAAAXBtZXRhAAAAAAAAACFoZGxyAAAAAAAAAABwaWN0AAAAAAAAAAAAAAAAAAAAAA5waXRtAAAAAAABAAAANGlsb2MAAAAAREAAAgABAAAAAAGUAAEAAAAAAAACrgACAAAAAARCAAEAAAAAAAAAXAAAADhpaW5mAAAAAAACAAAAFWluZmUCAAAAAAEAAGF2MDEAAAAAFWluZmUCAAAAAAIAAGF2MDEAAAAAr2lwcnAAAACKaXBjbwAAAAxhdjFDgQAMAAAAABRpc3BlAAAAAAAAAHkAAAAjAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQAcAAAAAA5waXhpAAAAAAEIAAAAOGF1eEMAAAAAdXJuOm1wZWc6bXBlZ0I6Y2ljcDpzeXN0ZW1zOmF1eGlsaWFyeTphbHBoYQAAAAAdaXBtYQAAAAAAAAACAAEDgQIDAAIEhAIFhgAAABppcmVmAAAAAAAAAA5hdXhsAAIAAQABAAADEm1kYXQSAAoJGBl8RMEBDQaEMp4FRTACCCCAoN01DBH2SkRcYaVL4R+FuVU6vN8+EkpQM9ccmKx1zckDd6bMymGQ9/yZKUU9FwBIPeDvWZRMIIJX4Jr4hSj/LqrS2dLYUWfCHZf0DNOY+Vihmv9YvMW2ObORzGcKCbxx0hhJjkAsyNCfRHO0vJJ3jzUZUyrWrE4zWy60T/5bkDmS9VJO55U23a1GMyfps0U34DmHxS8oNHqo/oJ6loggXF1Rl0d+5HgzSOgDbnIgM13+6l4XnIYV89eWXJssYLtK33+mw8YpFLvmnYRWmFuQzUWdVLC4coLwhxi8ITsW8ZFdXevktrOKZ+s2bzCqc/cHSrbTE2INRMpQU+FX4ZeGq2qaiSSlNdi/WHoMsubOxTVoYYrMmZVuHbykde6RaJXA+D7vt/YtSGF6AlMEPPt5fkfKyWXq4y3Kuv8U+9IsyisVDTjKQXpybcXS7l4QiINv2TEZ3Zn0lJZ5uz2MaO8Qm68I63fF/RHZ2MTljOnnHT9W+bbVTK2J5MHpKA0D+5TeYUYsjgr0Ssa5Ngm14ycCU6Df7vDNtgFamiyneiMbJyp+pEAZMKTuI8INuGoEFZWNxgpEGHjJwF7wZRknE8HC9bNhPn/Ow3bNAru0G2SKzh0OrWHlHcZHHCNdSHiwwt1oMoT+QrhUMs5PIhtV/E2zaMI6ayyEeL5EIJIXlRfyZ7Nh85S5juIxgUVnqROYeR3r5SbgnSBrlw2i8OwaGjOLS3z6folmr/WBNNIYw+TafaB1/7Ju0BnJFzI1LSYtxc/vl2ebw3NbJC8B2AEenuwmgn+AnZwdXSAlFqykArEh63sXdaZSQ+3qs0am4d1u9lO4g0s2Whbfs6O0Yopj3uZyZJnUXnf35bxrxPohlve5GapyAlVE4RdbEBIACgYYGXxEwqAyUEUwCCAo28uqz9ksZMLYqgz7GdIxNyMDCsvxz/mLzAxMKQjdA+W0yaUiSd3vb3FIg0o8hkNr+rJxlE4kn0JPWEawhwlH4O0UBQ1IXSlJDAnH"
                                                 alt="Get it on Google Play" /></a></li>
@@ -167,11 +167,11 @@ export default function Footer() {
                                 <h2 className="Gbrcu evhMv">Download Our App</h2>
                                 <div className="x7ZEB"></div>
                                 <ul className="VZHJI">
-                                    <li><a href="https://apps.apple.com/us/app/urban-ladder/id959886087"
+                                    <li><a href="https://apps.apple.com/us/app/divya-furniture/id000000000"
                                             target="_blank"><img
                                                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAjCAMAAABPXb88AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACHUExURUBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUVFQAAAAAAACUlJRISEiQkJBISEjMzM////+/v7+Dg4N/f39DQ0M/Pz8DAwL+/v7CwsK+vr6CgoJ+fn5CQkI+Pj4CAgH9/f3BwcGBgYF9fX1BQUE9PTzAwMCAgIBAQEAAAANYKCFoAAAAUdFJOU/8AECBAUGBwgJCgsL+/wN/f4ODvLVkp/wAAAvhJREFUeNq9lYtupDgQRYud2Uwem80+bqUCBkPc9nhs1/9/39qgtIiSnmRH6j4IQZWudHCpJKjruqv7Bzoj/95fVQl1X/44MM7L/PCliu57nB356zf6PeACLNd02+MC8D3d4yI80N+4CPSeaGAcGe0ob5ZIsGPBKxhwnxNJVoMjycyJwU9gBuOxvgmCaY16M/DEhErt8lrDWxAPAA8fibLmfQBwdorBGTcQSLJLHExrILoEH3wTeU/9TI4ApsDkohVa4s9Fs6p9LVps7JE4+mC8RAQTDNUGRpeRwIR2j2G2yACcAWFwS3Tp8aeihQx2EDiLN0yI3pCRUEXt4jREJiTuN9HsX0TjJnJ4winREFMcMficggAbPygaSIg95hkRsuDQH3qh2HMMEYasBzBR5MngB4A+skc/w8fnUyKnO8z51nvWHVnOJ0onDsR2xGkG54b/J2LdkV6tYWGcQLKWmmZgkM+KBt0R95GiC05AaoBndRB1nxWJ7iAcEbXUSrE8OMvAOLJ9GdcW9AdZNFqArbOyRpcJGGvx0ehUdpMTp9yeQYtmAeVUino0crFo9FlLhmStV1+jUYMkzSX3Hy1DkmObtrnMTfKsHqQH4LuaVVC0kBVsEcoCybmJGEH7WtA7Iqd7MjZ6tS3VRLblC0gZEPVoyByra1pFrAGA035WA2QahiEovxWx7iFsBE1ERU0VmbUEZVQ04IW5Te24EDW3RrXkxuNbEbzumLCRs3POq9udqBxPJK5HhXSV8NpbNhFKOPmb4KxH/HHp7RorVZQEkwaQeiDoCIBLFqDPaRNTEXDOWEWxFvDpPRGkmgqRqiY+Tk5Qce0zY8nr1pVcin5H41mVkhYBF03VqFTKtImkFlkP74ogy8SATDNeWCwa7No8JrcwQJlnN2FDXAgLry8OkHlN9E4AcC0M9qLPUUVYoYxfgOifS4nuGJfggW4MLoDc0VfCBfBX1F07nB1701HXXdP4xDgb/DjSTddE3Zdvt3+ej7vbb1+7rvsPZxY5qs2kY64AAAAASUVORK5CYII="
                                                 alt="Download on the App Store" /></a></li>
-                                    <li><a href="https://play.google.com/store/apps/details?id=com.urbanladder.catalog"
+                                    <li><a href="https://play.google.com/store/apps/details?id=com.divyafurniture.catalog"
                                             target="_blank"><img
                                                 src="data:image/avif;base64,AAAAHGZ0eXBhdmlmAAAAAG1pZjFhdmlmbWlhZgAAAXBtZXRhAAAAAAAAACFoZGxyAAAAAAAAAABwaWN0AAAAAAAAAAAAAAAAAAAAAA5waXRtAAAAAAABAAAANGlsb2MAAAAAREAAAgABAAAAAAGUAAEAAAAAAAACrgACAAAAAARCAAEAAAAAAAAAXAAAADhpaW5mAAAAAAACAAAAFWluZmUCAAAAAAEAAGF2MDEAAAAAFWluZmUCAAAAAAIAAGF2MDEAAAAAr2lwcnAAAACKaXBjbwAAAAxhdjFDgQAMAAAAABRpc3BlAAAAAAAAAHkAAAAjAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQAcAAAAAA5waXhpAAAAAAEIAAAAOGF1eEMAAAAAdXJuOm1wZWc6bXBlZ0I6Y2ljcDpzeXN0ZW1zOmF1eGlsaWFyeTphbHBoYQAAAAAdaXBtYQAAAAAAAAACAAEDgQIDAAIEhAIFhgAAABppcmVmAAAAAAAAAA5hdXhsAAIAAQABAAADEm1kYXQSAAoJGBl8RMEBDQaEMp4FRTACCCCAoN01DBH2SkRcYaVL4R+FuVU6vN8+EkpQM9ccmKx1zckDd6bMymGQ9/yZKUU9FwBIPeDvWZRMIIJX4Jr4hSj/LqrS2dLYUWfCHZf0DNOY+Vihmv9YvMW2ObORzGcKCbxx0hhJjkAsyNCfRHO0vJJ3jzUZUyrWrE4zWy60T/5bkDmS9VJO55U23a1GMyfps0U34DmHxS8oNHqo/oJ6loggXF1Rl0d+5HgzSOgDbnIgM13+6l4XnIYV89eWXJssYLtK33+mw8YpFLvmnYRWmFuQzUWdVLC4coLwhxi8ITsW8ZFdXevktrOKZ+s2bzCqc/cHSrbTE2INRMpQU+FX4ZeGq2qaiSSlNdi/WHoMsubOxTVoYYrMmZVuHbykde6RaJXA+D7vt/YtSGF6AlMEPPt5fkfKyWXq4y3Kuv8U+9IsyisVDTjKQXpybcXS7l4QiINv2TEZ3Zn0lJZ5uz2MaO8Qm68I63fF/RHZ2MTljOnnHT9W+bbVTK2J5MHpKA0D+5TeYUYsjgr0Ssa5Ngm14ycCU6Df7vDNtgFamiyneiMbJyp+pEAZMKTuI8INuGoEFZWNxgpEGHjJwF7wZRknE8HC9bNhPn/Ow3bNAru0G2SKzh0OrWHlHcZHHCNdSHiwwt1oMoT+QrhUMs5PIhtV/E2zaMI6ayyEeL5EIJIXlRfyZ7Nh85S5juIxgUVnqROYeR3r5SbgnSBrlw2i8OwaGjOLS3z6folmr/WBNNIYw+TafaB1/7Ju0BnJFzI1LSYtxc/vl2ebw3NbJC8B2AEenuwmgn+AnZwdXSAlFqykArEh63sXdaZSQ+3qs0am4d1u9lO4g0s2Whbfs6O0Yopj3uZyZJnUXnf35bxrxPohlve5GapyAlVE4RdbEBIACgYYGXxEwqAyUEUwCCAo28uqz9ksZMLYqgz7GdIxNyMDCsvxz/mLzAxMKQjdA+W0yaUiSd3vb3FIg0o8hkNr+rJxlE4kn0JPWEawhwlH4O0UBQ1IXSlJDAnH"
                                                 alt="Get it on Google Play" /></a></li>
@@ -181,11 +181,11 @@ export default function Footer() {
                                 <h2 className="Gbrcu evhMv">Download Our App</h2>
                                 <div className="x7ZEB"></div>
                                 <ul className="VZHJI">
-                                    <li><a href="https://apps.apple.com/us/app/urban-ladder/id959886087"
+                                    <li><a href="https://apps.apple.com/us/app/divya-furniture/id000000000"
                                             target="_blank"><img
                                                 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAjCAMAAABPXb88AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACHUExURUBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUVFQAAAAAAACUlJRISEiQkJBISEjMzM////+/v7+Dg4N/f39DQ0M/Pz8DAwL+/v7CwsK+vr6CgoJ+fn5CQkI+Pj4CAgH9/f3BwcGBgYF9fX1BQUE9PTzAwMCAgIBAQEAAAANYKCFoAAAAUdFJOU/8AECBAUGBwgJCgsL+/wN/f4ODvLVkp/wAAAvhJREFUeNq9lYtupDgQRYud2Uwem80+bqUCBkPc9nhs1/9/39qgtIiSnmRH6j4IQZWudHCpJKjruqv7Bzoj/95fVQl1X/44MM7L/PCliu57nB356zf6PeACLNd02+MC8D3d4yI80N+4CPSeaGAcGe0ob5ZIsGPBKxhwnxNJVoMjycyJwU9gBuOxvgmCaY16M/DEhErt8lrDWxAPAA8fibLmfQBwdorBGTcQSLJLHExrILoEH3wTeU/9TI4ApsDkohVa4s9Fs6p9LVps7JE4+mC8RAQTDNUGRpeRwIR2j2G2yACcAWFwS3Tp8aeihQx2EDiLN0yI3pCRUEXt4jREJiTuN9HsX0TjJnJ4winREFMcMficggAbPygaSIg95hkRsuDQH3qh2HMMEYasBzBR5MngB4A+skc/w8fnUyKnO8z51nvWHVnOJ0onDsR2xGkG54b/J2LdkV6tYWGcQLKWmmZgkM+KBt0R95GiC05AaoBndRB1nxWJ7iAcEbXUSrE8OMvAOLJ9GdcW9AdZNFqArbOyRpcJGGvx0ehUdpMTp9yeQYtmAeVUino0crFo9FlLhmStV1+jUYMkzSX3Hy1DkmObtrnMTfKsHqQH4LuaVVC0kBVsEcoCybmJGEH7WtA7Iqd7MjZ6tS3VRLblC0gZEPVoyByra1pFrAGA035WA2QahiEovxWx7iFsBE1ERU0VmbUEZVQ04IW5Te24EDW3RrXkxuNbEbzumLCRs3POq9udqBxPJK5HhXSV8NpbNhFKOPmb4KxH/HHp7RorVZQEkwaQeiDoCIBLFqDPaRNTEXDOWEWxFvDpPRGkmgqRqiY+Tk5Qce0zY8nr1pVcin5H41mVkhYBF03VqFTKtImkFlkP74ogy8SATDNeWCwa7No8JrcwQJlnN2FDXAgLry8OkHlN9E4AcC0M9qLPUUVYoYxfgOifS4nuGJfggW4MLoDc0VfCBfBX1F07nB1701HXXdP4xDgb/DjSTddE3Zdvt3+ej7vbb1+7rvsPZxY5qs2kY64AAAAASUVORK5CYII="
                                                 alt="Download on the App Store" /></a></li>
-                                    <li><a href="https://play.google.com/store/apps/details?id=com.urbanladder.catalog"
+                                    <li><a href="https://play.google.com/store/apps/details?id=com.divyafurniture.catalog"
                                             target="_blank"><img
                                                 src="data:image/avif;base64,AAAAHGZ0eXBhdmlmAAAAAG1pZjFhdmlmbWlhZgAAAXBtZXRhAAAAAAAAACFoZGxyAAAAAAAAAABwaWN0AAAAAAAAAAAAAAAAAAAAAA5waXRtAAAAAAABAAAANGlsb2MAAAAAREAAAgABAAAAAAGUAAEAAAAAAAACrgACAAAAAARCAAEAAAAAAAAAXAAAADhpaW5mAAAAAAACAAAAFWluZmUCAAAAAAEAAGF2MDEAAAAAFWluZmUCAAAAAAIAAGF2MDEAAAAAr2lwcnAAAACKaXBjbwAAAAxhdjFDgQAMAAAAABRpc3BlAAAAAAAAAHkAAAAjAAAAEHBpeGkAAAAAAwgICAAAAAxhdjFDgQAcAAAAAA5waXhpAAAAAAEIAAAAOGF1eEMAAAAAdXJuOm1wZWc6bXBlZ0I6Y2ljcDpzeXN0ZW1zOmF1eGlsaWFyeTphbHBoYQAAAAAdaXBtYQAAAAAAAAACAAEDgQIDAAIEhAIFhgAAABppcmVmAAAAAAAAAA5hdXhsAAIAAQABAAADEm1kYXQSAAoJGBl8RMEBDQaEMp4FRTACCCCAoN01DBH2SkRcYaVL4R+FuVU6vN8+EkpQM9ccmKx1zckDd6bMymGQ9/yZKUU9FwBIPeDvWZRMIIJX4Jr4hSj/LqrS2dLYUWfCHZf0DNOY+Vihmv9YvMW2ObORzGcKCbxx0hhJjkAsyNCfRHO0vJJ3jzUZUyrWrE4zWy60T/5bkDmS9VJO55U23a1GMyfps0U34DmHxS8oNHqo/oJ6loggXF1Rl0d+5HgzSOgDbnIgM13+6l4XnIYV89eWXJssYLtK33+mw8YpFLvmnYRWmFuQzUWdVLC4coLwhxi8ITsW8ZFdXevktrOKZ+s2bzCqc/cHSrbTE2INRMpQU+FX4ZeGq2qaiSSlNdi/WHoMsubOxTVoYYrMmZVuHbykde6RaJXA+D7vt/YtSGF6AlMEPPt5fkfKyWXq4y3Kuv8U+9IsyisVDTjKQXpybcXS7l4QiINv2TEZ3Zn0lJZ5uz2MaO8Qm68I63fF/RHZ2MTljOnnHT9W+bbVTK2J5MHpKA0D+5TeYUYsjgr0Ssa5Ngm14ycCU6Df7vDNtgFamiyneiMbJyp+pEAZMKTuI8INuGoEFZWNxgpEGHjJwF7wZRknE8HC9bNhPn/Ow3bNAru0G2SKzh0OrWHlHcZHHCNdSHiwwt1oMoT+QrhUMs5PIhtV/E2zaMI6ayyEeL5EIJIXlRfyZ7Nh85S5juIxgUVnqROYeR3r5SbgnSBrlw2i8OwaGjOLS3z6folmr/WBNNIYw+TafaB1/7Ju0BnJFzI1LSYtxc/vl2ebw3NbJC8B2AEenuwmgn+AnZwdXSAlFqykArEh63sXdaZSQ+3qs0am4d1u9lO4g0s2Whbfs6O0Yopj3uZyZJnUXnf35bxrxPohlve5GapyAlVE4RdbEBIACgYYGXxEwqAyUEUwCCAo28uqz9ksZMLYqgz7GdIxNyMDCsvxz/mLzAxMKQjdA+W0yaUiSd3vb3FIg0o8hkNr+rJxlE4kn0JPWEawhwlH4O0UBQ1IXSlJDAnH"
                                                 alt="Get it on Google Play" /></a></li>
@@ -341,7 +341,7 @@ export default function Footer() {
                                     <li><Link href="/privacy-policy" target="_blank" rel="noreferrer">Privacy Policy</Link>
                                     </li>
                                 </ul>
-                                <div className="CI5ct">© 2012-2026 URBAN LADDER</div>
+                                <div className="CI5ct">© 2012-2026 DIVYA FURNITURE WORLD</div>
                             </div>
                         </div>
                         <div className="GnrGw tUGhz Ku8QS undefined" style={{"marginBottom":"0"}}>
@@ -352,7 +352,7 @@ export default function Footer() {
                                     <li><Link href="/privacy-policy" target="_blank" rel="noreferrer">Privacy Policy</Link>
                                     </li>
                                 </ul>
-                                <div className="CI5ct">© 2012-2026 URBAN LADDER</div>
+                                <div className="CI5ct">© 2012-2026 DIVYA FURNITURE WORLD</div>
                             </div>
                         </div>
                         <div className="HJkeb tUGhz PEo2S undefined" style={{"marginBottom":"0"}}>
@@ -363,7 +363,7 @@ export default function Footer() {
                                     <li><Link href="/privacy-policy" target="_blank" rel="noreferrer">Privacy Policy</Link>
                                     </li>
                                 </ul>
-                                <div className="CI5ct">© 2012-2026 URBAN LADDER</div>
+                                <div className="CI5ct">© 2012-2026 DIVYA FURNITURE WORLD</div>
                             </div>
                         </div>
                         <div className="dRaiS tUGhz b7qBX undefined">
@@ -427,7 +427,7 @@ export default function Footer() {
                             <div className="s3fXM">
                                 <div className="Gbrcu">Like what you're seeing? Follow us for more.</div>
                                 <ul className="AN6Tu">
-                                    <li><a aria-label="Facebook" href="https://www.facebook.com/urbanladder/"
+                                    <li><a aria-label="Facebook" href="https://www.facebook.com/divyafurnitureworld/"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#1877F2"
@@ -437,7 +437,7 @@ export default function Footer() {
                                                     d="M24 16.75c0-4.4-3.6-8-8-8s-8 3.6-8 8c0 4 2.9 7.3 6.7 7.9v-5.6h-2v-2.3h2v-1.8c0-2 1.2-3.1 3-3.1.9 0 1.8.2 1.8.2v2h-1c-1 0-1.3.6-1.3 1.2v1.5h2.2l-.4 2.3h-1.9v5.7c4-.6 6.9-4 6.9-8">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="Instagram" href="https://www.instagram.com/urbanladder/?hl=en"
+                                    <li><a aria-label="Instagram" href="https://www.instagram.com/divyafurnitureworld/?hl=en"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#F00073"
@@ -450,7 +450,7 @@ export default function Footer() {
                                                     d="M16 12.45c-2.4 0-4.3 1.9-4.3 4.3s1.9 4.3 4.3 4.3 4.3-1.9 4.3-4.3-1.9-4.3-4.3-4.3m0 7.1c-1.5 0-2.8-1.2-2.8-2.8 0-1.5 1.2-2.8 2.8-2.8 1.5 0 2.8 1.2 2.8 2.8 0 1.5-1.3 2.8-2.8 2.8M20.4 13.35a1 1 0 1 0 0-2 1 1 0 0 0 0 2">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="X (Twitter)" href="https://twitter.com/UrbanLadder"
+                                    <li><a aria-label="X (Twitter)" href="https://twitter.com/DivyaFurniture"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#000"
@@ -460,7 +460,7 @@ export default function Footer() {
                                                     d="M20.745 9.428h2.53l-5.528 6.318 6.503 8.597h-5.092l-3.988-5.215-4.562 5.215H8.076l5.912-6.758L7.75 9.428h5.22l3.606 4.766zm-.888 13.4h1.402l-9.05-11.965h-1.504z">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="Youtube" href="https://www.youtube.com/user/urbanladder"
+                                    <li><a aria-label="Youtube" href="https://www.youtube.com/@divyafurnitureworld"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="red"
@@ -487,7 +487,7 @@ export default function Footer() {
                             <div className="s3fXM">
                                 <div className="Gbrcu">Like what you're seeing? Follow us for more.</div>
                                 <ul className="AN6Tu">
-                                    <li><a aria-label="Facebook" href="https://www.facebook.com/urbanladder/"
+                                    <li><a aria-label="Facebook" href="https://www.facebook.com/divyafurnitureworld/"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#1877F2"
@@ -497,7 +497,7 @@ export default function Footer() {
                                                     d="M24 16.75c0-4.4-3.6-8-8-8s-8 3.6-8 8c0 4 2.9 7.3 6.7 7.9v-5.6h-2v-2.3h2v-1.8c0-2 1.2-3.1 3-3.1.9 0 1.8.2 1.8.2v2h-1c-1 0-1.3.6-1.3 1.2v1.5h2.2l-.4 2.3h-1.9v5.7c4-.6 6.9-4 6.9-8">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="Instagram" href="https://www.instagram.com/urbanladder/?hl=en"
+                                    <li><a aria-label="Instagram" href="https://www.instagram.com/divyafurnitureworld/?hl=en"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#F00073"
@@ -510,7 +510,7 @@ export default function Footer() {
                                                     d="M16 12.45c-2.4 0-4.3 1.9-4.3 4.3s1.9 4.3 4.3 4.3 4.3-1.9 4.3-4.3-1.9-4.3-4.3-4.3m0 7.1c-1.5 0-2.8-1.2-2.8-2.8 0-1.5 1.2-2.8 2.8-2.8 1.5 0 2.8 1.2 2.8 2.8 0 1.5-1.3 2.8-2.8 2.8M20.4 13.35a1 1 0 1 0 0-2 1 1 0 0 0 0 2">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="X (Twitter)" href="https://twitter.com/UrbanLadder"
+                                    <li><a aria-label="X (Twitter)" href="https://twitter.com/DivyaFurniture"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#000"
@@ -520,7 +520,7 @@ export default function Footer() {
                                                     d="M20.745 9.428h2.53l-5.528 6.318 6.503 8.597h-5.092l-3.988-5.215-4.562 5.215H8.076l5.912-6.758L7.75 9.428h5.22l3.606 4.766zm-.888 13.4h1.402l-9.05-11.965h-1.504z">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="Youtube" href="https://www.youtube.com/user/urbanladder"
+                                    <li><a aria-label="Youtube" href="https://www.youtube.com/@divyafurnitureworld"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="red"
@@ -547,7 +547,7 @@ export default function Footer() {
                             <div className="s3fXM">
                                 <div className="Gbrcu">Like what you're seeing? Follow us for more.</div>
                                 <ul className="AN6Tu">
-                                    <li><a aria-label="Facebook" href="https://www.facebook.com/urbanladder/"
+                                    <li><a aria-label="Facebook" href="https://www.facebook.com/divyafurnitureworld/"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#1877F2"
@@ -557,7 +557,7 @@ export default function Footer() {
                                                     d="M24 16.75c0-4.4-3.6-8-8-8s-8 3.6-8 8c0 4 2.9 7.3 6.7 7.9v-5.6h-2v-2.3h2v-1.8c0-2 1.2-3.1 3-3.1.9 0 1.8.2 1.8.2v2h-1c-1 0-1.3.6-1.3 1.2v1.5h2.2l-.4 2.3h-1.9v5.7c4-.6 6.9-4 6.9-8">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="Instagram" href="https://www.instagram.com/urbanladder/?hl=en"
+                                    <li><a aria-label="Instagram" href="https://www.instagram.com/divyafurnitureworld/?hl=en"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#F00073"
@@ -570,7 +570,7 @@ export default function Footer() {
                                                     d="M16 12.45c-2.4 0-4.3 1.9-4.3 4.3s1.9 4.3 4.3 4.3 4.3-1.9 4.3-4.3-1.9-4.3-4.3-4.3m0 7.1c-1.5 0-2.8-1.2-2.8-2.8 0-1.5 1.2-2.8 2.8-2.8 1.5 0 2.8 1.2 2.8 2.8 0 1.5-1.3 2.8-2.8 2.8M20.4 13.35a1 1 0 1 0 0-2 1 1 0 0 0 0 2">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="X (Twitter)" href="https://twitter.com/UrbanLadder"
+                                    <li><a aria-label="X (Twitter)" href="https://twitter.com/DivyaFurniture"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="#000"
@@ -580,7 +580,7 @@ export default function Footer() {
                                                     d="M20.745 9.428h2.53l-5.528 6.318 6.503 8.597h-5.092l-3.988-5.215-4.562 5.215H8.076l5.912-6.758L7.75 9.428h5.22l3.606 4.766zm-.888 13.4h1.402l-9.05-11.965h-1.504z">
                                                 </path>
                                             </svg></a></li>
-                                    <li><a aria-label="Youtube" href="https://www.youtube.com/user/urbanladder"
+                                    <li><a aria-label="Youtube" href="https://www.youtube.com/@divyafurnitureworld"
                                             target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32"
                                                 height="33" fill="none" aria-hidden="true">
                                                 <path fill="red"
@@ -609,3 +609,5 @@ export default function Footer() {
     </footer>
   );
 }
+
+

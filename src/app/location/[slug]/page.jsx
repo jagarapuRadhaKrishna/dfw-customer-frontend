@@ -78,28 +78,28 @@ export default function LocationPage({ params }) {
               icon: '🚚',
               title: 'Furniture Delivery',
               description: 'Ask about delivery availability for your area.',
-              available: availability.delivery
+              available: availability.verified && availability.delivery
             },
             {
               key: 'rental',
               icon: '🛋️',
               title: 'Furniture Rental',
               description: 'Rental availability and terms depend on the product and location.',
-              available: availability.rental
+              available: availability.verified && availability.rental
             },
             {
               key: 'homeDemo',
               icon: '📏',
               title: 'Home Demonstration',
               description: 'Contact us to ask whether a home demonstration is available.',
-              available: availability.homeDemo
+              available: availability.verified && availability.homeDemo
             },
             {
               key: 'consultation',
               icon: '👥',
               title: 'Furniture Consultation',
               description: 'Ask our team for assistance with your furniture enquiry.',
-              available: availability.expertConsultation
+              available: availability.verified && availability.expertConsultation
             }
           ].map((service) => (
             <div
@@ -125,7 +125,9 @@ export default function LocationPage({ params }) {
                 fontWeight: '600',
                 color: service.available ? '#2e7d32' : '#999'
               }}>
-                {service.available ? '✓ Available' : '○ Not Available'}
+                {availability.verified
+                  ? service.available ? '✓ Available' : '○ Not Available'
+                  : 'Check with our team'}
               </span>
             </div>
           ))}
@@ -192,7 +194,7 @@ export default function LocationPage({ params }) {
               'Sideboards',
               'Lounge Chairs'
             ].map((category) => (
-              <div key={category} style={{
+              <div key={category} className="location-category-card" style={{
                 padding: '16px',
                 backgroundColor: '#fff',
                 border: '1px solid #ddd',
@@ -203,14 +205,6 @@ export default function LocationPage({ params }) {
                 color: '#1a1a1a',
                 cursor: 'pointer',
                 transition: 'all 0.2s ease'
-              }}
-              onMouseEnter={(e) => {
-                e.target.style.borderColor = '#ff6b35';
-                e.target.style.backgroundColor = '#fff3e0';
-              }}
-              onMouseLeave={(e) => {
-                e.target.style.borderColor = '#ddd';
-                e.target.style.backgroundColor = '#fff';
               }}>
                 {category}
               </div>

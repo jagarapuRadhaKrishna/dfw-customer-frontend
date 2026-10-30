@@ -15,7 +15,7 @@ export default function FilterBar() {
 
   const filters = {
     material: ['Wood', 'Metal', 'Fabric', 'Leather', 'Engineered Wood'],
-    brand: ['Urban Ladder', 'Woodsworth', 'Bohemiana', 'CasaCraft', 'Others'],
+    brand: ['Divya Furniture World', 'Woodsworth', 'Bohemiana', 'CasaCraft', 'Others'],
     bedSize: ['Single', 'Queen', 'King', 'Super King'],
     storageType: ['With Storage', 'Without Storage', 'Hydraulic Storage'],
     seatingCapacity: ['2 Seater', '3 Seater', '4 Seater', '5+ Seater']

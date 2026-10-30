@@ -13,6 +13,7 @@ import PageTransition from '@/components/animations/PageTransition';
 import { AuthProvider } from '@/context/AuthContext';
 import { ShopProvider } from '@/context/ShopContext';
 import LoginModal from '@/components/auth/LoginModal';
+import { ErrorBoundary } from '@/components/error/ErrorBoundary';
 import { generateOrganizationSchema, generateWebSiteSchema } from '@/lib/schema-generator';
 import { SITE_NAME, SITE_URL } from '@/lib/site-config';
 
@@ -79,20 +80,22 @@ export default function RootLayout({ children }) {
         <AuthProvider>
           <ShopProvider>
             <LoginModal />
-            <div id="app" style={{ overflow: 'visible' }}>
-              <div className="z605e" style={{ overflow: 'visible' }}>
-                <div className="Toastify"></div>
-                <FloatingChat />
-                <PromotionalBar />
-                <Header />
-                <div className="fdk-theme-outlet" style={{ overflow: 'visible' }}>
-                  <PageTransition>
-                    {children}
-                  </PageTransition>
+            <ErrorBoundary>
+              <div id="app" style={{ overflow: 'visible' }}>
+                <div className="z605e" style={{ overflow: 'visible' }}>
+                  <div className="Toastify"></div>
+                  <FloatingChat />
+                  <PromotionalBar />
+                  <Header />
+                  <div className="fdk-theme-outlet" style={{ overflow: 'visible' }}>
+                    <PageTransition>
+                      {children}
+                    </PageTransition>
+                  </div>
+                  <Footer />
                 </div>
-                <Footer />
               </div>
-            </div>
+            </ErrorBoundary>
           </ShopProvider>
         </AuthProvider>
       </body>

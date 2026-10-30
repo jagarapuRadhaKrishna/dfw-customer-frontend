@@ -39596,3 +39596,8 @@ body.chat-widget-fixed {
 #zoid-pop-in-chat-widget-uid_b23511ccdf_mte6mdk6mzq>iframe.zoid-visible {
     opacity: 1;
 }
+
+.location-category-card:hover {
+    border-color: #ff6b35 !important;
+    background-color: #fff3e0 !important;
+}

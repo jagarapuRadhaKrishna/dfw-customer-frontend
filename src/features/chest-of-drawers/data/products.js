@@ -1,6 +1,6 @@
 /**
  * Chest of Drawers - Complete Product Data
- * Extracted from Urban Ladder chest of drawers collection
+ * Extracted from Divya Furniture World chest of drawers collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const chestOfDrawersProducts = [
     href: "/product/ohio-chest-of-drawer-in-amber-walnut-finish-8784930",
     slug: "ohio-chest-of-drawer-in-amber-walnut-finish-8784930",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹19,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -29,7 +29,7 @@ export const chestOfDrawersProducts = [
     href: "/product/toledo-solid-wood-chest-of-6-drawers-in-amber-walnut-finish-9071568",
     slug: "toledo-solid-wood-chest-of-6-drawers-in-amber-walnut-finish-9071568",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹31,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const chestOfDrawersProducts = [
     href: "/product/baltoro-engineering-wood-chest-of-5-drawers-in-white-finish-7520307",
     slug: "baltoro-engineering-wood-chest-of-5-drawers-in-white-finish-7520307",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,999",
     mrp: "₹16,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const chestOfDrawersProducts = [
     href: "/product/ben-engineered-wood-chest-of-4-drawers-in-classic-walnut-finish-7520340-9420670",
     slug: "ben-engineered-wood-chest-of-4-drawers-in-classic-walnut-finish-7520340-9420670",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,999",
     mrp: "₹14,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const chestOfDrawersProducts = [
     href: "/product/saar-teak-wood-chest-of-drawers-in-espresso-teak-finish-9896449",
     slug: "saar-teak-wood-chest-of-drawers-in-espresso-teak-finish-9896449",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹21,999",
     mrp: "₹36,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const chestOfDrawersProducts = [
     href: "/product/bennis-engineered-wood-chest-of-5-drawers-in-dark-walnut-finish-7520315",
     slug: "bennis-engineered-wood-chest-of-5-drawers-in-dark-walnut-finish-7520315",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹10,999",
     mrp: "₹18,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const chestOfDrawersProducts = [
     href: "/product/masai-solid-wood-chest-of-drawers-in-american-walnut-2-tone-finish-8687935",
     slug: "masai-solid-wood-chest-of-drawers-in-american-walnut-2-tone-finish-8687935",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,999",
     mrp: "₹33,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const chestOfDrawersProducts = [
     href: "/product/faye-solid-wood-chest-of-drawers-in-natural-white-ash-finish-7520309",
     slug: "faye-solid-wood-chest-of-drawers-in-natural-white-ash-finish-7520309",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹28,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const chestOfDrawersProducts = [
     href: "/product/ohio-chest-of-drawers-in-danish-walnut-finish-with-metal-channel-8503644",
     slug: "ohio-chest-of-drawers-in-danish-walnut-finish-with-metal-channel-8503644",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹13,999",
     mrp: "₹23,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const chestOfDrawersProducts = [
     href: "/product/toledo-solid-wood-chest-of-6-drawers-in-danish-walnut-finish-8340145",
     slug: "toledo-solid-wood-chest-of-6-drawers-in-danish-walnut-finish-8340145",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹21,999",
     mrp: "₹36,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const chestOfDrawersProducts = [
     href: "/product/ben-engineered-wood-chest-of-4-drawers-in-dark-wenge-finish-7520324-9420673",
     slug: "ben-engineered-wood-chest-of-4-drawers-in-dark-wenge-finish-7520324-9420673",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,499",
     mrp: "₹15,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const chestOfDrawersProducts = [
     href: "/product/elder-sheesham-wood-chest-of-drawers-in-provisional-teak-finish-8121056",
     slug: "elder-sheesham-wood-chest-of-drawers-in-provisional-teak-finish-8121056",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹24,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const chestOfDrawersProducts = [
 ];
 
 export const CHEST_OF_DRAWERS_COUNT = chestOfDrawersProducts.length;
+

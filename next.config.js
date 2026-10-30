@@ -12,6 +12,15 @@ const nextConfig = {
   poweredByHeader: false,
   generateEtags: true,
   productionBrowserSourceMaps: false,
+  async redirects() {
+    return [
+      {
+        source: '/collection/atmos-collection',
+        destination: '/collection/atmos',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;

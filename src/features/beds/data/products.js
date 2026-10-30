@@ -1,6 +1,6 @@
 /**
  * Beds - Complete Product Data
- * Extracted from Urban Ladder beds collection
+ * Extracted from Divya Furniture World beds collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const bedsProducts = [
     href: "/product/hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fabric-shitake-beige-fabric-8395371",
     slug: "hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fabric-shitake-beige-fabric-8395371",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹54,999",
     mrp: "₹89,999",
     image: "/images/new-arrivals/products/04-hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fa.webp",
@@ -29,7 +29,7 @@ export const bedsProducts = [
     href: "/product/toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-8425967",
     slug: "toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-8425967",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹48,999",
     mrp: "₹79,999",
     image: "/images/new-arrivals/products/06-toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-84259.avif",
@@ -47,7 +47,7 @@ export const bedsProducts = [
     href: "/product/stanhope-upholestry-hydraulic-king-size-bed-in-shitake-beige-premium-chenille-8315053",
     slug: "stanhope-upholestry-hydraulic-king-size-bed-in-shitake-beige-premium-chenille-8315053",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹42,999",
     mrp: "₹69,999",
     image: "/images/new-arrivals/products/10-stanhope-upholestry-hydraulic-king-size-bed-in-shitake-beige-premium-chenille-83.avif",
@@ -65,7 +65,7 @@ export const bedsProducts = [
     href: "/product/duetto-solid-wood-queen-size-bed-in-two-tone-finish-7520680",
     slug: "duetto-solid-wood-queen-size-bed-in-two-tone-finish-7520680",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹35,999",
     mrp: "₹59,999",
     image: "/images/new-arrivals/products/19-basel-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428104.avif",
@@ -83,7 +83,7 @@ export const bedsProducts = [
     href: "/product/amy-engineered-wood-queen-size-box-storage-bed-in-classic-walnut-finish-7520709-9420534",
     slug: "amy-engineered-wood-queen-size-box-storage-bed-in-classic-walnut-finish-7520709-9420534",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹39,999",
     mrp: "₹64,999",
     image: "/images/new-arrivals/products/17-kaarya-engineered-wood-queen-size-bed-with-box-storage-in-wheat-brown-walnut-fin.avif",
@@ -101,7 +101,7 @@ export const bedsProducts = [
     href: "/product/eden-upholstered-queen-size-hydraulic-storage-bed-in-berry-orchid-colour-with-danish-walnut-finish-10460064",
     slug: "eden-upholstered-queen-size-hydraulic-storage-bed-in-berry-orchid-colour-with-danish-walnut-finish-10460064",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹51,999",
     mrp: "₹84,999",
     image: "/images/new-arrivals/products/16-eden-upholstered-queen-size-hydraulic-storage-bed-in-berry-orchid-colour-with-da.avif",
@@ -119,7 +119,7 @@ export const bedsProducts = [
     href: "/product/kaarya-engineered-wood-queen-size-bed-with-box-storage-in-wheat-brown-walnut-finish-10470310",
     slug: "kaarya-engineered-wood-queen-size-bed-with-box-storage-in-wheat-brown-walnut-finish-10470310",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹41,999",
     mrp: "₹68,999",
     image: "/images/new-arrivals/products/17-kaarya-engineered-wood-queen-size-bed-with-box-storage-in-wheat-brown-walnut-fin.avif",
@@ -137,7 +137,7 @@ export const bedsProducts = [
     href: "/product/milan-engineered-wood-queen-size-beds-with-storage-in-deep-olive-velvet-9227451",
     slug: "milan-engineered-wood-queen-size-beds-with-storage-in-deep-olive-velvet-9227451",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹45,999",
     mrp: "₹74,999",
     image: "/images/new-arrivals/products/18-milan-engineered-wood-queen-size-beds-with-storage-in-deep-olive-velvet-9227451.avif",
@@ -155,7 +155,7 @@ export const bedsProducts = [
     href: "/product/basel-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428104",
     slug: "basel-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428104",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹38,999",
     mrp: "₹63,999",
     image: "/images/new-arrivals/products/19-basel-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428104.avif",
@@ -173,7 +173,7 @@ export const bedsProducts = [
     href: "/product/fiji-wingback-cane-and-solid-wood-queen-size-hydraulic-storage-bed-in-nappa-tan-leatherette-10358611",
     slug: "fiji-wingback-cane-and-solid-wood-queen-size-hydraulic-storage-bed-in-nappa-tan-leatherette-10358611",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹55,999",
     mrp: "₹89,999",
     image: "/images/new-arrivals/products/20-fiji-wingback-cane-and-solid-wood-queen-size-hydraulic-storage-bed-in-nappa-tan-.avif",
@@ -191,7 +191,7 @@ export const bedsProducts = [
     href: "/product/koro-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428111",
     slug: "koro-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428111",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹39,999",
     mrp: "₹65,999",
     image: "/images/new-arrivals/products/21-koro-solid-wood-queen-size-non-storage-bed-in-amber-walnut-finish-10428111.webp",
@@ -209,7 +209,7 @@ export const bedsProducts = [
     href: "/product/cambry-queen-size-storage-hydraulic-storage-bed-with-headboard-storage-in-honey-finish-8315057",
     slug: "cambry-queen-size-storage-hydraulic-storage-bed-with-headboard-storage-in-honey-finish-8315057",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹47,999",
     mrp: "₹77,999",
     image: "/images/new-arrivals/products/28-sora-solid-wood-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-9972207.avif",
@@ -224,3 +224,4 @@ export const bedsProducts = [
 ];
 
 export const BEDS_COUNT = bedsProducts.length;
+

@@ -45,6 +45,48 @@ const productArrays = [
 ];
 
 const allProducts = productArrays.flat();
+const productCategoryLabels = [
+  'New Arrivals',
+  'Sofas',
+  'Sofa Beds',
+  'Beds',
+  'Bookshelves',
+  'Chest of Drawers',
+  'Coffee Tables',
+  'Dining Tables',
+  'Lounge Chairs',
+  'Mattresses',
+  'Recliners',
+  'Shoe Racks',
+  'Sideboards',
+  'Study Tables',
+  'TV Units',
+  'Wardrobes',
+  'Best Buys',
+  'Clearance',
+  'Decor',
+];
+const productUrlsByTitle = new Map();
+
+for (const product of allProducts) {
+  if (!product?.title || !product?.href) continue;
+
+  const urls = productUrlsByTitle.get(product.title) || new Set();
+  urls.add(product.href);
+  productUrlsByTitle.set(product.title, urls);
+}
+
+export const dynamicParams = false;
+
+export async function generateStaticParams() {
+  const slugs = new Set(
+    allProducts
+      .map((product) => product?.href?.match(/^\/product\/([a-z0-9-]+)$/i)?.[1])
+      .filter(Boolean),
+  );
+
+  return Array.from(slugs, (slug) => ({ slug }));
+}
 
 function findProduct(slug) {
   const decodedSlug = decodeURIComponent(slug).toLowerCase();
@@ -58,10 +100,20 @@ function findProduct(slug) {
   });
 }
 
+function getProductMetadata(product) {
+  if ((productUrlsByTitle.get(product.title)?.size || 0) < 2) {
+    return generateProductMetadata(product);
+  }
+
+  const categoryIndex = productArrays.findIndex((products) => products.includes(product));
+  const category = productCategoryLabels[categoryIndex];
+  return generateProductMetadata(product, { category });
+}
+
 export async function generateMetadata({ params }) {
   const product = findProduct(params?.slug || '');
   if (!product) notFound();
-  return generateProductMetadata(product);
+  return getProductMetadata(product);
 }
 
 export default function ProductPage({ params }) {

@@ -6,7 +6,7 @@ export const clearanceSaleProducts = [
     title: "Vetra 3 Seater Leather Sofa In Olive Colour",
     href: "/product/vetra-3-seater-leather-sofa-olive-cs001",
     badge: "Clearance",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹49,999",
     mrp: "₹1,59,999",
     image: "/images/clearance-sale/products/vetra-sofa.webp",
@@ -49,7 +49,7 @@ export const clearanceSaleProducts = [
       { icon: "✓", title: "Warranty", desc: "5-year coverage" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
     ]
   },
   {
@@ -57,7 +57,7 @@ export const clearanceSaleProducts = [
     title: "Hanoi Solid Wood Cane Queen Size Bed With Hydraulic Storage",
     href: "/product/hanoi-solid-wood-cane-queen-bed-hydraulic-cs002",
     badge: "Clearance",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹59,999",
     mrp: "₹96,999",
     image: "/images/clearance-sale/products/hanoi-bed.webp",
@@ -97,7 +97,7 @@ export const clearanceSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Premium verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Main", address: "250 Central Avenue", distance: "4.5 km" }
+      { name: "Divya Furniture World - Main", address: "250 Central Avenue", distance: "4.5 km" }
     ]
   },
   {
@@ -105,7 +105,7 @@ export const clearanceSaleProducts = [
     title: "Leeroy Three Seater Leather Recliner Sofa in Oyster White",
     href: "/product/leeroy-3-seater-leather-recliner-oyster-white-cs003",
     badge: "Clearance",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,49,999",
     mrp: "₹3,99,999",
     image: "/images/clearance-sale/products/leeroy-recliner.webp",
@@ -148,7 +148,7 @@ export const clearanceSaleProducts = [
       { icon: "✓", title: "Warranty", desc: "12-year coverage" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Premium Store", address: "500 Luxury Center", distance: "6.2 km" }
+      { name: "Divya Furniture World - Premium Store", address: "500 Luxury Center", distance: "6.2 km" }
     ]
   },
   {
@@ -156,7 +156,7 @@ export const clearanceSaleProducts = [
     title: "Toledo Solid Wood Queen Size Bed With Hydraulic Storage",
     href: "/product/toledo-solid-wood-queen-bed-hydraulic-cs004",
     badge: "Clearance",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹45,999",
     mrp: "₹1,05,999",
     image: "/images/clearance-sale/products/toledo-bed.webp",
@@ -196,7 +196,7 @@ export const clearanceSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Durability verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Jayanagar", address: "123 Shopping Center", distance: "5.5 km" }
+      { name: "Divya Furniture World - Jayanagar", address: "123 Shopping Center", distance: "5.5 km" }
     ]
   },
   {
@@ -204,7 +204,7 @@ export const clearanceSaleProducts = [
     title: "Taran 3 Seater Wooden Sofa in Deep Olive Velvet",
     href: "/product/taran-3-seater-wooden-sofa-deep-olive-velvet-cs005",
     badge: "Clearance",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹39,999",
     mrp: "₹78,760",
     image: "/images/clearance-sale/products/taran-sofa.webp",
@@ -244,7 +244,7 @@ export const clearanceSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Materials verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Main", address: "250 Central Avenue", distance: "4.8 km" }
+      { name: "Divya Furniture World - Main", address: "250 Central Avenue", distance: "4.8 km" }
     ]
   },
   {
@@ -252,7 +252,7 @@ export const clearanceSaleProducts = [
     title: "Paleo Solid Wood Bookshelf in Danish Walnut Finish",
     href: "/product/paleo-solid-wood-bookshelf-danish-walnut-cs006",
     badge: "Clearance",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,999",
     mrp: "₹24,999",
     image: "/images/clearance-sale/products/paleo-bookshelf.webp",
@@ -292,7 +292,9 @@ export const clearanceSaleProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Wood verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
     ]
   }
 ];
+
+

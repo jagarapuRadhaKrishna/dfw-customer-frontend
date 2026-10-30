@@ -1,6 +1,6 @@
 /**
  * Sofa Sets - Complete Product Data
- * Extracted from Urban Ladder sofa-sets collection
+ * Extracted from Divya Furniture World sofa-sets collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const sofaProducts = [
     href: "/product/vetra-3-seater-leather-sofa-in-olive-9227440",
     slug: "vetra-3-seater-leather-sofa-in-olive-9227440",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹89,999",
     mrp: "₹1,59,999",
     image: "/images/new-arrivals/products/01-vetra-3-seater-leather-sofa-in-olive-9227440.avif",
@@ -29,7 +29,7 @@ export const sofaProducts = [
     href: "/product/ronan-3-seater-fabric-sofa-in-beige-colour-9106253",
     slug: "ronan-3-seater-fabric-sofa-in-beige-colour-9106253",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹49,999",
     mrp: "₹66,599",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const sofaProducts = [
     href: "/product/apollo-compact-3-seater-fabric-sofa-9552548",
     slug: "apollo-compact-3-seater-fabric-sofa-9552548",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹45,999",
     mrp: "₹64,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const sofaProducts = [
     href: "/product/taran-teak-wood-sofa-deep-olive-velvet-8281294",
     slug: "taran-teak-wood-sofa-deep-olive-velvet-8281294",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹64,999",
     mrp: "₹78,760",
     image: "/images/new-arrivals/products/08-taran-teak-wood-sofa-deep-olive-velvet-8281294.avif",
@@ -83,7 +83,7 @@ export const sofaProducts = [
     href: "/product/raynor-3-seater-wooden-sofa-finish-amber-walnut-fabric-macadamia-brown-8115797",
     slug: "raynor-3-seater-wooden-sofa-finish-amber-walnut-fabric-macadamia-brown-8115797",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹33,999",
     mrp: "₹47,999",
     image: "/images/new-arrivals/products/13-raynor-3-seater-wooden-sofa-finish-amber-walnut-fabric-macadamia-brown-8115797.avif",
@@ -101,7 +101,7 @@ export const sofaProducts = [
     href: "/product/amora-sofa-3-seater-in-deep-olive-velvet-9002764",
     slug: "amora-sofa-3-seater-in-deep-olive-velvet-9002764",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹39,999",
     mrp: "₹74,999",
     image: "/images/new-arrivals/products/22-amora-sofa-3-seater-in-deep-olive-velvet-9002764.avif",
@@ -119,7 +119,7 @@ export const sofaProducts = [
     href: "/product/waverly-3-seater-leather-sofa-in-army-green-9301480",
     slug: "waverly-3-seater-leather-sofa-in-army-green-9301480",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹69,999",
     mrp: "₹1,24,999",
     image: "/images/new-arrivals/products/26-waverly-3-seater-leather-sofa-in-army-green-9301480.avif",
@@ -137,7 +137,7 @@ export const sofaProducts = [
     href: "/product/granada-essential-3-seater-fabric-sofa-in-moss-green-8361261",
     slug: "granada-essential-3-seater-fabric-sofa-in-moss-green-8361261",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹52,999",
     mrp: "₹84,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const sofaProducts = [
     href: "/product/verona-essential-3-seater-fabric-sofa-in-moss-green-9511733",
     slug: "verona-essential-3-seater-fabric-sofa-in-moss-green-9511733",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹54,999",
     mrp: "₹89,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const sofaProducts = [
     href: "/product/abbey-sofa-colour-dark-coral-cushion-soft-seating-capacity-3-seater-9508884",
     slug: "abbey-sofa-colour-dark-coral-cushion-soft-seating-capacity-3-seater-9508884",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹46,999",
     mrp: "₹74,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const sofaProducts = [
     href: "/product/henrietta-2-seater-sofa-icy-turquoise-7520580",
     slug: "henrietta-2-seater-sofa-icy-turquoise-7520580",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹35,999",
     mrp: "₹57,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const sofaProducts = [
     href: "/product/noma-3-seater-fabric-sofa-in-honey-mosaic-10702937",
     slug: "noma-3-seater-fabric-sofa-in-honey-mosaic-10702937",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,49,999",
     mrp: "₹2,79,999",
     image: "/images/new-arrivals/products/42-noma-3-seater-fabric-sofa-in-honey-mosaic-10702937.avif",
@@ -224,3 +224,4 @@ export const sofaProducts = [
 ];
 
 export const SOFAS_COUNT = sofaProducts.length;
+

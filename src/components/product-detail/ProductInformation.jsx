@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useShop } from '@/context/ShopContext';
 
-// Sofa sizes matching Urban Ladder
+// Sofa sizes matching Divya Furniture World
 const SOFA_SIZES = [
   {
     name: '1 Seater',
@@ -175,7 +175,7 @@ export default function ProductInformation({
 
       {/* 2. Brand + Rating Row */}
       <div className="pi-brand-rating">
-        <span className="pi-brand">By {product.brand || 'Urban Ladder'}</span>
+        <span className="pi-brand">By {product.brand || 'Divya Furniture World'}</span>
         <span className="pi-rating-badge">
           {product.rating || 4.7}
           <svg viewBox="0 0 12 12" fill="currentColor">
@@ -343,7 +343,7 @@ export default function ProductInformation({
         )}
       </div>
 
-      {/* 9. Advisory Alert Notice (matching Urban Ladder) */}
+      {/* 9. Advisory Alert Notice (matching Divya Furniture World) */}
       <div className="pi-advisory-banner">
         <span className="advisory-icon">⚠️</span>
         <span>
@@ -351,7 +351,7 @@ export default function ProductInformation({
         </span>
       </div>
 
-      {/* 10. Product Highlights Specification Table (matching Urban Ladder) */}
+      {/* 10. Product Highlights Specification Table (matching Divya Furniture World) */}
       <div className="pi-option-group">
         <div className="pi-section-label">Product Highlights</div>
         <div className="pi-specs-table">
@@ -438,3 +438,4 @@ export default function ProductInformation({
     </div>
   );
 }
+

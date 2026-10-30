@@ -69,8 +69,8 @@ export default function LogoBar() {
               />
               <span className="logo-divider" aria-hidden="true"></span>
               <span className="brand-name">
-                <span>DIVYA</span>
-                <span>FURNITURE WORLD</span>
+                <span className="brand-top">DIVYA</span>
+                <span className="brand-bottom">FURNITURE WORLD</span>
               </span>
             </Link>
           </div>
@@ -78,13 +78,19 @@ export default function LogoBar() {
           <div className="HvXT8">
             <ul className="nIsd8">
               <li className="UlboM" data-testid="navigation-desktop-category-top-0">
-                <Link href="/sections/business-furniture">Business Furniture</Link>
+                <Link href="/home-interiors">Home Interiors</Link>
               </li>
-              <li className="UlboM is-active" data-testid="navigation-desktop-category-top-1">
-                <Link href="/sections/rental-services">Rental Services</Link>
+              <li className="UlboM" data-testid="navigation-desktop-category-top-1">
+                <Link href="/business-furniture">Business Furniture</Link>
               </li>
               <li className="UlboM" data-testid="navigation-desktop-category-top-2">
-                <Link href="/sections/repair-services">Repair Services</Link>
+                <Link href="/rental">Rental Services</Link>
+              </li>
+              <li className="UlboM" data-testid="navigation-desktop-category-top-3">
+                <Link href="/repair-services">Repair Services</Link>
+              </li>
+              <li className="UlboM" data-testid="navigation-desktop-category-top-4">
+                <Link href="/marketplace">Marketplace</Link>
               </li>
             </ul>
           </div>

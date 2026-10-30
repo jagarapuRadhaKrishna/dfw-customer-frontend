@@ -1,6 +1,6 @@
 /**
  * Recliners - Complete Product Data
- * Extracted from Urban Ladder recliners collection
+ * Extracted from Divya Furniture World recliners collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const reclinersProducts = [
     href: "/product/emila-fabric-three-seater-motorized-recliner-in-blue-colour-7520170-8721015",
     slug: "emila-fabric-three-seater-motorized-recliner-in-blue-colour-7520170-8721015",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹84,999",
     mrp: "₹1,41,999",
     image: "/images/new-arrivals/products/05-leeroy-3-seater-leather-recliner-sofa-in-oyster-white-8144333.webp",
@@ -29,7 +29,7 @@ export const reclinersProducts = [
     href: "/product/leeroy-3-seater-leather-recliner-sofa-in-oyster-white-8144333",
     slug: "leeroy-3-seater-leather-recliner-sofa-in-oyster-white-8144333",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,24,999",
     mrp: "₹2,08,499",
     image: "/images/new-arrivals/products/05-leeroy-3-seater-leather-recliner-sofa-in-oyster-white-8144333.webp",
@@ -47,7 +47,7 @@ export const reclinersProducts = [
     href: "/product/lebowski-fabric-one-seater-manual-recliner-in-cobalt-fabric-colour-7520195-8720973",
     slug: "lebowski-fabric-one-seater-manual-recliner-in-cobalt-fabric-colour-7520195-8720973",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹34,999",
     mrp: "₹58,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const reclinersProducts = [
     href: "/product/leeroy-leather-three-seater-motorized-recliner-in-hazelnut-tan-9684734",
     slug: "leeroy-leather-three-seater-motorized-recliner-in-hazelnut-tan-9684734",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,34,999",
     mrp: "₹2,24,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const reclinersProducts = [
     href: "/product/atticus-single-seater-swivel-rock-recliner-7520184-8721040",
     slug: "atticus-single-seater-swivel-rock-recliner-7520184-8721040",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹28,999",
     mrp: "₹48,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const reclinersProducts = [
     href: "/product/irene-one-seater-rocker-swivel-recliner-in-space-grey-velvet-colour-7520211-8720975",
     slug: "irene-one-seater-rocker-swivel-recliner-in-space-grey-velvet-colour-7520211-8720975",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹32,999",
     mrp: "₹54,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const reclinersProducts = [
     href: "/product/dawson-fabric-one-seater-manual-recliner-in-coastal-blue-colour-7520169-8720972",
     slug: "dawson-fabric-one-seater-manual-recliner-in-coastal-blue-colour-7520169-8720972",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹31,999",
     mrp: "₹53,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const reclinersProducts = [
     href: "/product/maurice-leather-recliner-8294281",
     slug: "maurice-leather-recliner-8294281",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹39,999",
     mrp: "₹66,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const reclinersProducts = [
     href: "/product/theo-single-seater-motorized-recliner-in-taupe-grey-fabric-8281305",
     slug: "theo-single-seater-motorized-recliner-in-taupe-grey-fabric-8281305",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹44,999",
     mrp: "₹74,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const reclinersProducts = [
     href: "/product/edison-single-seater-recliner-in-matte-grey-fabric-8144331",
     slug: "edison-single-seater-recliner-in-matte-grey-fabric-8144331",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹36,999",
     mrp: "₹61,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const reclinersProducts = [
     href: "/product/linaro-leather-2-seater-double-motor-recliner-in-grey-colour-9264844",
     slug: "linaro-leather-2-seater-double-motor-recliner-in-grey-colour-9264844",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,14,999",
     mrp: "₹1,91,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const reclinersProducts = [
     href: "/product/leeroy-leather-two-seater-motorized-recliner-in-red-dahlia-9684737",
     slug: "leeroy-leather-two-seater-motorized-recliner-in-red-dahlia-9684737",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,09,999",
     mrp: "₹1,83,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const reclinersProducts = [
 ];
 
 export const RECLINERS_COUNT = reclinersProducts.length;
+

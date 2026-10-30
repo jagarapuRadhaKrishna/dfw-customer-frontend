@@ -4,6 +4,8 @@ import { bestBuysProducts } from '@/features/best-buys/data/products';
 import { decorOnSaleProducts } from '@/features/decor-on-sale/data/products';
 import { generatePageMetadata } from '@/lib/metadata-generator';
 
+export const dynamicParams = false;
+
 function formatTitle(slug) {
   return slug
     .split('-')
@@ -45,7 +47,7 @@ export default function GenericInfoPage({ params }) {
     <main className="info-dynamic-route">
       <CollectionPage
         title={title}
-        productCount="Exclusive Offers and Promotional Collections"
+        productCount="Explore selected furniture and check product pages for current prices and availability."
         products={products}
         breadcrumbPath={[
           { label: 'Home', href: '/' },

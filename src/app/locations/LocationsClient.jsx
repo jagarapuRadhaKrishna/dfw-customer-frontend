@@ -151,7 +151,7 @@ export default function LocationsPage() {
                 {[
                   { key: 'delivery', icon: '🚚', title: 'Furniture Delivery', label: 'delivery' },
                   { key: 'rental', icon: '🛋️', title: 'Furniture Rental', label: 'rental' },
-                  { key: 'homeDemo', icon: '📏', title: 'Free Home Demo', label: 'homeDemo' },
+                  { key: 'homeDemo', icon: '📏', title: 'Home Demonstration', label: 'homeDemo' },
                   { key: 'consultation', icon: '👥', title: 'Expert Consultation', label: 'expertConsultation' }
                 ].map((service) => (
                   <div

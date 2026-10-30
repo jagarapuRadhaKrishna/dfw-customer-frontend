@@ -1,6 +1,6 @@
 /**
  * Lounge Chairs - Complete Product Data
- * Extracted from Urban Ladder lounge chairs collection
+ * Extracted from Divya Furniture World lounge chairs collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const loungeChairsProducts = [
     href: "/product/florence-lounge-chair-in-calico-floral-7520492",
     slug: "florence-lounge-chair-in-calico-floral-7520492",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹31,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -29,7 +29,7 @@ export const loungeChairsProducts = [
     href: "/product/genoa-wing-chair-in-monochrome-paisley-colour-8148076",
     slug: "genoa-wing-chair-in-monochrome-paisley-colour-8148076",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹22,999",
     mrp: "₹38,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const loungeChairsProducts = [
     href: "/product/brando-fabric-arm-chair-in-ochre-colour-10350299",
     slug: "brando-fabric-arm-chair-in-ochre-colour-10350299",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹28,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const loungeChairsProducts = [
     href: "/product/odette-lounge-chair-in-army-green-leather-9322473",
     slug: "odette-lounge-chair-in-army-green-leather-9322473",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹24,999",
     mrp: "₹41,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const loungeChairsProducts = [
     href: "/product/cleo-lounge-chair-in-aubun-corduroy-10703814",
     slug: "cleo-lounge-chair-in-aubun-corduroy-10703814",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,999",
     mrp: "₹33,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const loungeChairsProducts = [
     href: "/product/chandigarh-lounge-chair-in-mustard-mist-ikat-fabric-9292853",
     slug: "chandigarh-lounge-chair-in-mustard-mist-ikat-fabric-9292853",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹20,999",
     mrp: "₹34,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const loungeChairsProducts = [
     href: "/product/aile-lounge-chair-in-dual-tone-classic-beige-and-russet-brown-leatherette-10468064",
     slug: "aile-lounge-chair-in-dual-tone-classic-beige-and-russet-brown-leatherette-10468064",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹21,999",
     mrp: "₹36,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const loungeChairsProducts = [
     href: "/product/bella-lounge-chair-finish-teak-fabric-ic-f-18-8115772",
     slug: "bella-lounge-chair-finish-teak-fabric-ic-f-18-8115772",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹17,999",
     mrp: "₹29,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const loungeChairsProducts = [
     href: "/product/niyo-lounge-chair-in-saddle-tan-fabric-8115768",
     slug: "niyo-lounge-chair-in-saddle-tan-fabric-8115768",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,499",
     mrp: "₹30,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const loungeChairsProducts = [
     href: "/product/morgen-lounge-chair-in-calico-print-fabric-7520462",
     slug: "morgen-lounge-chair-in-calico-print-fabric-7520462",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,499",
     mrp: "₹32,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const loungeChairsProducts = [
     href: "/product/owen-lounge-chair-in-tan-leatherette-8503660",
     slug: "owen-lounge-chair-in-tan-leatherette-8503660",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹17,499",
     mrp: "₹29,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const loungeChairsProducts = [
     href: "/product/1956-lounge-chair-in-black-leatherette-7520351",
     slug: "1956-lounge-chair-in-black-leatherette-7520351",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,499",
     mrp: "₹27,499",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const loungeChairsProducts = [
 ];
 
 export const LOUNGE_CHAIRS_COUNT = loungeChairsProducts.length;
+

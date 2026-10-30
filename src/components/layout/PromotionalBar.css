@@ -3,9 +3,9 @@
   color: #fff;
   width: 100%;
   position: relative;
-  z-index: 9999;
+  z-index: 150;
   box-sizing: border-box;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .promotional-bar-container {
@@ -63,6 +63,293 @@
 
 .edit-icon:hover {
   opacity: 0.8;
+}
+
+/* Location Input */
+.location-input-wrapper {
+  position: relative;
+  display: inline-block;
+  min-width: 200px;
+  max-width: 300px;
+}
+
+/* Location Display (when not editing) */
+.location-display-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.location-capsule {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #fff;
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.location-link {
+  font-size: 13px;
+  font-weight: 600;
+  color: #ec7744;
+  text-decoration: none;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+  white-space: nowrap;
+}
+
+.location-link:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.location-input {
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 13px;
+  font-weight: 500;
+  color: #304858;
+  background: #fff;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+  box-sizing: border-box;
+  min-height: 28px;
+}
+
+/* Input inside capsule - transparent background */
+.location-capsule .location-input {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  min-height: auto;
+}
+
+.location-input::placeholder {
+  color: #94a3b8;
+}
+
+/* Location Suggestions Dropdown */
+.location-suggestions {
+  position: fixed;
+  top: auto;
+  left: auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15), 0 2px 8px rgba(0, 0, 0, 0.08);
+  z-index: 151;
+  list-style: none;
+  margin: 0;
+  padding: 0.5rem 0;
+  max-height: 300px;
+  overflow-y: auto;
+  animation: dropdownFadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  min-width: 200px;
+  max-width: 300px;
+}
+
+@keyframes dropdownFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.suggestion-item {
+  padding: 0.625rem 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background 0.15s ease;
+}
+
+.suggestion-item:hover,
+.suggestion-item.selected {
+  background: #f8fafc;
+}
+
+.suggestion-city {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.suggestion-state {
+  font-size: 13px;
+  color: #64748b;
+}
+
+.suggestion-pin {
+  font-size: 12px;
+  color: #94a3b8;
+  margin-left: auto;
+}
+
+/* Loading State */
+.suggestions-loading {
+  padding: 1rem;
+  text-align: center;
+  color: #64748b;
+  font-size: 13px;
+  position: fixed;
+  top: auto;
+  left: auto;
+  z-index: 151;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15), 0 2px 8px rgba(0, 0, 0, 0.08);
+  min-width: 200px;
+  max-width: 300px;
+}
+
+.loading-spinner {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #e2e8f0;
+  border-top-color: #c45c38;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Empty State */
+.suggestions-empty {
+  padding: 1rem;
+  text-align: center;
+  color: #64748b;
+  font-size: 13px;
+  position: fixed;
+  top: auto;
+  left: auto;
+  z-index: 151;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15), 0 2px 8px rgba(0, 0, 0, 0.08);
+  min-width: 200px;
+  max-width: 300px;
+}
+
+/* Discovery Tooltip */
+.discovery-tooltip {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  z-index: 151;
+  animation: tooltipFadeIn 0.3s ease;
+}
+
+@keyframes tooltipFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tooltip-arrow {
+  position: absolute;
+  top: -6px;
+  left: 20px;
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid #304858;
+}
+
+.tooltip-content {
+  background: #fff;
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 280px;
+}
+
+.tooltip-icon {
+  flex-shrink: 0;
+}
+
+.tooltip-text {
+  font-size: 12px;
+  color: #304858;
+  line-height: 1.4;
+}
+
+/* Availability Message */
+.availability-message {
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+/* Promotional content transition animations */
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Slide up animation for message appearing */
+.slide-up {
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Slide down animation for message disappearing */
+.slide-down {
+  animation: slideDown 0.3s ease-in;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
 }
 
 /* Center: Promotional Offer */
@@ -160,6 +447,11 @@
     margin-bottom: 0.5rem;
   }
 
+  .location-input-wrapper {
+    min-width: 250px;
+    max-width: 100%;
+  }
+
   .promotional-offer {
     width: 100%;
     order: -1;
@@ -182,6 +474,15 @@
   .offer-text,
   .nav-link {
     font-size: 13px;
+  }
+
+  .location-input-wrapper {
+    min-width: 200px;
+    max-width: 280px;
+  }
+
+  .location-suggestions {
+    max-height: 250px;
   }
 
   .nav-links {

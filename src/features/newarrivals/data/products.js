@@ -7,7 +7,7 @@ export const newArrivalProducts = [
     title: "Vetra 3 Seater Leather Sofa In Olive Colour",
     href: "/product/vetra-3-seater-leather-sofa-in-olive-9227440",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹89,999",
     mrp: "₹1,59,999",
     image: "/images/new-arrivals/products/01-vetra-3-seater-leather-sofa-in-olive-9227440.avif",
@@ -52,7 +52,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Warranty", desc: "5-year coverage" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
     ]
   },
   {
@@ -60,7 +60,7 @@ export const newArrivalProducts = [
     title: "Ronan 3 Seater Fabric Sofa In Beige Colour",
     href: "/product/ronan-3-seater-fabric-sofa-in-beige-colour-9106253",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹49,999",
     mrp: "₹66,599",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -103,7 +103,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Warranty", desc: "3-year coverage" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
     ]
   },
   {
@@ -111,7 +111,7 @@ export const newArrivalProducts = [
     title: "Casey Swivel Engineered Wood Dining Chair in Dual Tone Colour - Set of 2",
     href: "/product/casey-swivel-dining-chair-in-dual-tone-8115847",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹20,999",
     mrp: "₹29,999",
     image: "/images/new-arrivals/products/03-casey-swivel-dining-chair-in-dual-tone-8115847.webp",
@@ -151,7 +151,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.2 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.2 km" }
     ]
   },
   {
@@ -159,7 +159,7 @@ export const newArrivalProducts = [
     title: "Hanoi Solid Wood Cane Queen Size Bed With Hydraulic Storage (Amber Walnut Finish)",
     href: "/product/hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fabric-shitake-beige-fabric-8395371",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹79,999",
     mrp: "₹96,999",
     image: "/images/new-arrivals/products/04-hanoi-solid-wood-cane-queen-size-hydraulic-storage-bed-in-amber-walnut-finish-fa.webp",
@@ -199,7 +199,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Premium verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Main", address: "250 Central Avenue", distance: "4.5 km" }
+      { name: "Divya Furniture World - Main", address: "250 Central Avenue", distance: "4.5 km" }
     ]
   },
   {
@@ -207,7 +207,7 @@ export const newArrivalProducts = [
     title: "Leeroy Three Seater Leather Recliner Sofa in Oyster White Colour",
     href: "/product/leeroy-3-seater-leather-recliner-sofa-in-oyster-white-8144333",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹2,19,999",
     mrp: "₹3,99,999",
     image: "/images/new-arrivals/products/05-leeroy-3-seater-leather-recliner-sofa-in-oyster-white-8144333.webp",
@@ -250,7 +250,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Warranty", desc: "12-year coverage" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Premium Store", address: "500 Luxury Center", distance: "6.2 km" }
+      { name: "Divya Furniture World - Premium Store", address: "500 Luxury Center", distance: "6.2 km" }
     ]
   },
   {
@@ -258,7 +258,7 @@ export const newArrivalProducts = [
     title: "Toledo Solid Wood Queen Size Bed With Hydraulic Storage (Danish Walnut Finish)",
     href: "/product/toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-8425967",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹65,999",
     mrp: "₹1,05,999",
     image: "/images/new-arrivals/products/06-toledo-solid-wood-queen-size-hydraulic-storage-bed-in-danish-walnut-finish-84259.avif",
@@ -298,7 +298,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Durability verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Jayanagar", address: "123 Shopping Center", distance: "5.5 km" }
+      { name: "Divya Furniture World - Jayanagar", address: "123 Shopping Center", distance: "5.5 km" }
     ]
   },
   {
@@ -306,7 +306,7 @@ export const newArrivalProducts = [
     title: "Beck Metal Dining Chair in Olive Leatherette Colour - Set of 2",
     href: "/product/beck-swivel-metal-dining-chair-set-of-2-in-olive-leatherette-9253669",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹27,999",
     mrp: "₹35,999",
     image: "/images/new-arrivals/products/07-beck-swivel-metal-dining-chair-set-of-2-in-olive-leatherette-9253669.avif",
@@ -349,7 +349,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Materials verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.8 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.8 km" }
     ]
   },
   {
@@ -357,7 +357,7 @@ export const newArrivalProducts = [
     title: "Taran 3 Seater Wooden Sofa in Deep Olive Velvet Colour",
     href: "/product/taran-teak-wood-sofa-deep-olive-velvet-8281294",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹64,999",
     mrp: "₹78,760",
     image: "/images/new-arrivals/products/08-taran-teak-wood-sofa-deep-olive-velvet-8281294.avif",
@@ -397,7 +397,7 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Materials verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Main", address: "250 Central Avenue", distance: "4.8 km" }
+      { name: "Divya Furniture World - Main", address: "250 Central Avenue", distance: "4.8 km" }
     ]
   },
   {
@@ -405,7 +405,7 @@ export const newArrivalProducts = [
     title: "Paleo Solid Wood Bookshelf in Danish Walnut Finish",
     href: "/product/paleo-solid-wood-corner-bookshelf-in-danish-walnut-finish-9746369",
     badge: "New Arrivals",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹24,999",
     image: "/images/new-arrivals/products/09-paleo-solid-wood-corner-bookshelf-in-danish-walnut-finish-9746369.webp",
@@ -445,7 +445,9 @@ export const newArrivalProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Wood verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
     ]
   }
 ];
+
+

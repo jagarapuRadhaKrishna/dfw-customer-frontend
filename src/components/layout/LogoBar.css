@@ -43,21 +43,33 @@
 }
 
 .KllZJ .brand-name {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    font-family: 'mr-eaves-xl-modern', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-    line-height: 1.15;
-    letter-spacing: 0.6px;
-    color: #2b3d4a;
-    text-transform: uppercase;
-    white-space: nowrap;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Urbanist', 'mr-eaves-xl-modern', 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #304957;
+  white-space: nowrap;
+  padding: 0px;
+  background: rgba(0, 0, 0, 0);
+  opacity: 1;
+  gap: 2px;
 }
 
-.KllZJ .brand-name span {
-    display: block;
+.KllZJ .brand-name .brand-top {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.KllZJ .brand-name .brand-bottom {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 1px;
+  text-align: center;
 }
 
 .KllZJ .JB3oi .HvXT8 {
@@ -250,8 +262,12 @@
         height: 28px;
     }
 
-    .KllZJ .brand-name {
+    .KllZJ .brand-name .brand-top {
         font-size: 12px;
+    }
+
+    .KllZJ .brand-name .brand-bottom {
+        font-size: 14px;
     }
 
     .KllZJ .JB3oi .fMxzb {

@@ -13,7 +13,7 @@ import StickyBottomBar from './StickyBottomBar';
 import { useShop } from '@/context/ShopContext';
 import './styles/product-detail.css';
 
-// Sofa sizes matching Urban Ladder
+// Sofa sizes matching Divya Furniture World
 const SOFA_SIZES = [
   {
     name: '1 Seater',
@@ -217,3 +217,4 @@ export default function ProductDetailPage({ product, similarProducts, recentlyVi
     </div>
   );
 }
+

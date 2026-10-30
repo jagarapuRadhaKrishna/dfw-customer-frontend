@@ -6,7 +6,7 @@ export const bestBuysProducts = [
     title: "Bennis 25 Pair Shoe Rack in Dark Walnut Finish",
     href: "/product/bennis-25-pair-shoe-rack-dark-walnut-bb001",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹17,799",
     image: "/images/best-buys/products/bennis-shoe-rack.webp",
@@ -46,7 +46,7 @@ export const bestBuysProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
     ]
   },
   {
@@ -54,7 +54,7 @@ export const bestBuysProducts = [
     title: "Alex 21 Pair Shoe Cabinet in Classic Walnut Finish",
     href: "/product/alex-21-pair-shoe-cabinet-classic-walnut-bb002",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹7,999",
     mrp: "₹15,999",
     image: "/images/best-buys/products/alex-shoe-cabinet.webp",
@@ -94,7 +94,7 @@ export const bestBuysProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.2 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.2 km" }
     ]
   },
   {
@@ -102,7 +102,7 @@ export const bestBuysProducts = [
     title: "Casey 2 Seater Dining Chair in Beige Colour",
     href: "/product/casey-2-seater-dining-chair-beige-bb003",
     badge: "New Arrivals",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,999",
     mrp: "₹12,999",
     image: "/images/best-buys/products/casey-dining-chair.webp",
@@ -142,7 +142,7 @@ export const bestBuysProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.8 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.8 km" }
     ]
   },
   {
@@ -150,7 +150,7 @@ export const bestBuysProducts = [
     title: "Paleo Solid Wood Bookshelf in Walnut Finish",
     href: "/product/paleo-solid-wood-bookshelf-walnut-bb004",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,999",
     mrp: "₹14,999",
     image: "/images/best-buys/products/paleo-bookshelf.webp",
@@ -190,7 +190,7 @@ export const bestBuysProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Wood verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
+      { name: "Divya Furniture World - Koramangala", address: "78 Shopping Complex", distance: "3.5 km" }
     ]
   },
   {
@@ -198,7 +198,7 @@ export const bestBuysProducts = [
     title: "Maya Coffee Table in Teak Finish",
     href: "/product/maya-coffee-table-teak-finish-bb005",
     badge: "New Arrivals",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹6,999",
     mrp: "₹9,999",
     image: "/images/best-buys/products/maya-coffee-table.webp",
@@ -238,7 +238,7 @@ export const bestBuysProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Verified quality" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
+      { name: "Divya Furniture World - Indiranagar", address: "123 Main Road", distance: "2.5 km" }
     ]
   },
   {
@@ -246,7 +246,7 @@ export const bestBuysProducts = [
     title: "Nora 2 Seater Sofa in Grey Colour",
     href: "/product/nora-2-seater-sofa-grey-bb006",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,999",
     mrp: "₹29,999",
     image: "/images/best-buys/products/nora-sofa.webp",
@@ -286,7 +286,9 @@ export const bestBuysProducts = [
       { icon: "✓", title: "Quality Tested", desc: "Materials verified" }
     ],
     nearbyStores: [
-      { name: "Urban Ladder - Main", address: "250 Central Avenue", distance: "4.8 km" }
+      { name: "Divya Furniture World - Main", address: "250 Central Avenue", distance: "4.8 km" }
     ]
   }
 ];
+
+

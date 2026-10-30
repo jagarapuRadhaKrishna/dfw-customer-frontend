@@ -1,6 +1,6 @@
 /**
  * Coffee Tables - Complete Product Data
- * Extracted from Urban Ladder coffee-tables collection
+ * Extracted from Divya Furniture World coffee-tables collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const coffeeTablesProducts = [
     href: "/product/kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700",
     slug: "kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹8,999",
     mrp: "₹14,999",
     image: "/images/new-arrivals/products/15-kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700.jpg",
@@ -29,7 +29,7 @@ export const coffeeTablesProducts = [
     href: "/product/linnea-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-9253654",
     slug: "linnea-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-9253654",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹10,999",
     mrp: "₹17,999",
     image: "/images/new-arrivals/products/34-linnea-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-9253654.jpg",
@@ -47,7 +47,7 @@ export const coffeeTablesProducts = [
     href: "/product/tetra-square-solid-wood-coffee-table-with-seats-in-danish-walnut-finish-in-multicolour-8424835",
     slug: "tetra-square-solid-wood-coffee-table-with-seats-in-danish-walnut-finish-in-multicolour-8424835",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹18,999",
     mrp: "₹29,999",
     image: "/images/new-arrivals/products/36-tetra-square-solid-wood-coffee-table-with-seats-in-danish-walnut-finish-in-multi.webp",
@@ -65,7 +65,7 @@ export const coffeeTablesProducts = [
     href: "/product/dyson-abstract-metal-coffee-table-in-teak-finish-7518967-9420695",
     slug: "dyson-abstract-metal-coffee-table-in-teak-finish-7518967-9420695",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹12,999",
     mrp: "₹21,999",
     image: "/images/new-arrivals/products/43-como-three-seater-in-premium-teak-wood-sofa-in-sienna-teak-finish-with-ocean-wea.avif",
@@ -83,7 +83,7 @@ export const coffeeTablesProducts = [
     href: "/product/tora-solid-wood-and-cane-with-glass-coffee-table-in-amber-walnut-finish-9253651",
     slug: "tora-solid-wood-and-cane-with-glass-coffee-table-in-amber-walnut-finish-9253651",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹24,999",
     image: "/images/new-arrivals/products/15-kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700.jpg",
@@ -101,7 +101,7 @@ export const coffeeTablesProducts = [
     href: "/product/alba-square-cluster-botticino-and-solid-wood-coffee-table-in-amber-walnut-finish-9971150",
     slug: "alba-square-cluster-botticino-and-solid-wood-coffee-table-in-amber-walnut-finish-9971150",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹16,999",
     mrp: "₹27,999",
     image: "/images/new-arrivals/products/34-linnea-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-9253654.jpg",
@@ -119,7 +119,7 @@ export const coffeeTablesProducts = [
     href: "/product/quinn-rectangular-solid-wood-coffee-table-in-danish-walnut-finish-8340209",
     slug: "quinn-rectangular-solid-wood-coffee-table-in-danish-walnut-finish-8340209",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹9,999",
     mrp: "₹16,999",
     image: "/images/new-arrivals/products/15-kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700.jpg",
@@ -137,7 +137,7 @@ export const coffeeTablesProducts = [
     href: "/product/sylvie-coffee-table-finish-natural-bpc-10089879",
     slug: "sylvie-coffee-table-finish-natural-bpc-10089879",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹19,999",
     image: "/images/new-arrivals/products/15-kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700.jpg",
@@ -155,7 +155,7 @@ export const coffeeTablesProducts = [
     href: "/product/enzo-set-of-2-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-8729969",
     slug: "enzo-set-of-2-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-8729969",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹14,999",
     mrp: "₹24,999",
     image: "/images/new-arrivals/products/34-linnea-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-9253654.jpg",
@@ -173,7 +173,7 @@ export const coffeeTablesProducts = [
     href: "/product/cayman-glasstop-coffee-table-finish-danish-walnut-8340210",
     slug: "cayman-glasstop-coffee-table-finish-danish-walnut-8340210",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹13,999",
     mrp: "₹23,999",
     image: "/images/new-arrivals/products/15-kaya-organic-solid-wood-coffee-table-in-danish-walnut-finish-8115700.jpg",
@@ -191,7 +191,7 @@ export const coffeeTablesProducts = [
     href: "/product/nakkashi-solid-wood-rectangular-coffee-table-in-dark-chestnut-finish-10248714",
     slug: "nakkashi-solid-wood-rectangular-coffee-table-in-dark-chestnut-finish-10248714",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹11,999",
     mrp: "₹19,999",
     image: "/images/new-arrivals/products/34-linnea-rectangular-solid-wood-coffee-table-in-amber-walnut-finish-9253654.jpg",
@@ -209,7 +209,7 @@ export const coffeeTablesProducts = [
     href: "/product/aeris-oval-metal-coffee-table-in-pluto-spanish-ceramic-finish-9352881",
     slug: "aeris-oval-metal-coffee-table-in-pluto-spanish-ceramic-finish-9352881",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹19,999",
     mrp: "₹32,999",
     image: "/images/new-arrivals/products/24-paloma-8-seater-pluto-spanish-ceramic-dining-table-9002930-9119073.avif",
@@ -224,3 +224,4 @@ export const coffeeTablesProducts = [
 ];
 
 export const COFFEE_TABLES_COUNT = coffeeTablesProducts.length;
+

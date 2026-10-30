@@ -1,6 +1,6 @@
 /**
  * Dining Tables - Complete Product Data
- * Extracted from Urban Ladder dining tables collection
+ * Extracted from Divya Furniture World dining tables collection
  * Reuses images from new-arrivals product images
  */
 
@@ -11,7 +11,7 @@ export const diningTablesProducts = [
     href: "/product/diner-6-seater-dining-table-set-finish-golden-oak-8729608",
     slug: "diner-6-seater-dining-table-set-finish-golden-oak-8729608",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹89,999",
     mrp: "₹1,49,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -29,7 +29,7 @@ export const diningTablesProducts = [
     href: "/product/ava-4-seater-dining-table-set-in-umber-walnut-finish-9278471",
     slug: "ava-4-seater-dining-table-set-in-umber-walnut-finish-9278471",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹64,999",
     mrp: "₹1,09,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const diningTablesProducts = [
     href: "/product/diner-4-seater-dining-table-set-9976631",
     slug: "diner-4-seater-dining-table-set-9976631",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹59,999",
     mrp: "₹99,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -65,7 +65,7 @@ export const diningTablesProducts = [
     href: "/product/zen-asymmetric-solid-wood-6-seater-dining-table-with-6-hague-solid-wood-dining-armchair-finish-danish-walnut-10375460",
     slug: "zen-asymmetric-solid-wood-6-seater-dining-table-with-6-hague-solid-wood-dining-armchair-finish-danish-walnut-10375460",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,19,999",
     mrp: "₹1,99,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -83,7 +83,7 @@ export const diningTablesProducts = [
     href: "/product/caribu-4-to-6-extendable-dining-table-with-set-of-4-doris-swivel-accent-chairs-8729599",
     slug: "caribu-4-to-6-extendable-dining-table-with-set-of-4-doris-swivel-accent-chairs-8729599",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹74,999",
     mrp: "₹1,24,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -101,7 +101,7 @@ export const diningTablesProducts = [
     href: "/product/aeris-ceramic-4-to-6-seater-extendable-dining-table-with-tulip-dining-chair-9358798",
     slug: "aeris-ceramic-4-to-6-seater-extendable-dining-table-with-tulip-dining-chair-9358798",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹84,999",
     mrp: "₹1,41,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -119,7 +119,7 @@ export const diningTablesProducts = [
     href: "/product/aeris-ceramic-4-to-6-seater-extendable-dining-table-with-calix-dining-chair-9644399",
     slug: "aeris-ceramic-4-to-6-seater-extendable-dining-table-with-calix-dining-chair-9644399",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹89,999",
     mrp: "₹1,49,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const diningTablesProducts = [
     href: "/product/aeris-ceramic-4-to-6-seater-extendable-dining-table-with-beck-dining-chair-9644419",
     slug: "aeris-ceramic-4-to-6-seater-extendable-dining-table-with-beck-dining-chair-9644419",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹79,999",
     mrp: "₹1,33,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -155,7 +155,7 @@ export const diningTablesProducts = [
     href: "/product/caribu-4-to-6-extendable-ingrid-fabric-6-seater-dining-table-set-colour-dark-grey-9777508",
     slug: "caribu-4-to-6-extendable-ingrid-fabric-6-seater-dining-table-set-colour-dark-grey-9777508",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹69,999",
     mrp: "₹1,16,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -173,7 +173,7 @@ export const diningTablesProducts = [
     href: "/product/vanalen-6-to-8-extendable-dalla-6-seater-glass-top-dining-table-set-8729588",
     slug: "vanalen-6-to-8-extendable-dalla-6-seater-glass-top-dining-table-set-8729588",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹94,999",
     mrp: "₹1,58,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const diningTablesProducts = [
     href: "/product/paloma-6-seater-jupiter-spanish-ceramic-dining-table-with-beck-dining-chairs-9507684",
     slug: "paloma-6-seater-jupiter-spanish-ceramic-dining-table-with-beck-dining-chairs-9507684",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹99,999",
     mrp: "₹1,66,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -209,7 +209,7 @@ export const diningTablesProducts = [
     href: "/product/emry-rectangular-statuario-ceramic-6-seater-dining-table-with-clarke-dining-chair-9309315",
     slug: "emry-rectangular-statuario-ceramic-6-seater-dining-table-with-clarke-dining-chair-9309315",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,04,999",
     mrp: "₹1,74,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -224,3 +224,4 @@ export const diningTablesProducts = [
 ];
 
 export const DINING_TABLES_COUNT = diningTablesProducts.length;
+

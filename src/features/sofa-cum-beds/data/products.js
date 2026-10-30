@@ -1,6 +1,6 @@
 /**
  * Sofa Cum Beds - Complete Product Data
- * Extracted from Urban Ladder sofa-cum-beds collection
+ * Extracted from Divya Furniture World sofa-cum-beds collection
  * 12 products with complete pricing and specifications
  */
 
@@ -11,7 +11,7 @@ export const sofaCumBedProducts = [
     href: "/product/kowloon-sectional-sofa-cum-bed-with-storage-colour-baltic-blue-premium-chenille-8115729-8384539-8687503",
     slug: "kowloon-sectional-sofa-cum-bed-with-storage-colour-baltic-blue-premium-chenille-8115729-8384539-8687503",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹1,49,999",
     mrp: "₹2,49,999",
     image: "/images/new-arrivals/products/01-vetra-3-seater-leather-sofa-in-olive-9227440.avif",
@@ -29,7 +29,7 @@ export const sofaCumBedProducts = [
     href: "/product/camden-3-seater-pull-out-sofa-cum-bed-in-smoke-grey-colour-7518901-8687483",
     slug: "camden-3-seater-pull-out-sofa-cum-bed-in-smoke-grey-colour-7518901-8687483",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹89,999",
     mrp: "₹1,39,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -47,7 +47,7 @@ export const sofaCumBedProducts = [
     href: "/product/peckham-sofa-cum-bed-in-oyster-beige-9283851",
     slug: "peckham-sofa-cum-bed-in-oyster-beige-9283851",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹74,999",
     mrp: "₹1,19,999",
     image: "/images/new-arrivals/products/22-amora-sofa-3-seater-in-deep-olive-velvet-9002764.avif",
@@ -65,7 +65,7 @@ export const sofaCumBedProducts = [
     href: "/product/kobi-2-seater-sofa-cum-bed-in-speckled-teal-9762049",
     slug: "kobi-2-seater-sofa-cum-bed-in-speckled-teal-9762049",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹64,999",
     mrp: "₹99,999",
     image: "/images/new-arrivals/products/08-taran-teak-wood-sofa-deep-olive-velvet-8281294.avif",
@@ -83,7 +83,7 @@ export const sofaCumBedProducts = [
     href: "/product/edo-sofa-cum-bed-in-dark-coral-9735363",
     slug: "edo-sofa-cum-bed-in-dark-coral-9735363",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹69,999",
     mrp: "₹1,14,999",
     image: "/images/new-arrivals/products/26-waverly-3-seater-leather-sofa-in-army-green-9301480.avif",
@@ -101,7 +101,7 @@ export const sofaCumBedProducts = [
     href: "/product/bram-3-seater-sofa-cum-bed-in-danish-walnut-finish-with-macadamia-brown-colour-9637312",
     slug: "bram-3-seater-sofa-cum-bed-in-danish-walnut-finish-with-macadamia-brown-colour-9637312",
     badge: "Bestseller",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹94,999",
     mrp: "₹1,54,999",
     image: "/images/new-arrivals/products/13-raynor-3-seater-wooden-sofa-finish-amber-walnut-fabric-macadamia-brown-8115797.avif",
@@ -119,7 +119,7 @@ export const sofaCumBedProducts = [
     href: "/product/salford-sofa-cum-beds-in-moss-green-9292974",
     slug: "salford-sofa-cum-beds-in-moss-green-9292974",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹79,999",
     mrp: "₹1,29,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -137,7 +137,7 @@ export const sofaCumBedProducts = [
     href: "/product/felicity-3-seater-sofa-cum-bed-in-midnight-indigo-blue-colour-7518886-8687474",
     slug: "felicity-3-seater-sofa-cum-bed-in-midnight-indigo-blue-colour-7518886-8687474",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹84,999",
     mrp: "₹1,39,999",
     image: "/images/new-arrivals/products/22-amora-sofa-3-seater-in-deep-olive-velvet-9002764.avif",
@@ -155,7 +155,7 @@ export const sofaCumBedProducts = [
     href: "/product/palermo-3-seater-click-clack-sofa-cum-bed-in-midnight-indigo-blue-colour-7518902-8687574",
     slug: "palermo-3-seater-click-clack-sofa-cum-bed-in-midnight-indigo-blue-colour-7518902-8687574",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹87,999",
     mrp: "₹1,44,999",
     image: "/images/new-arrivals/products/26-waverly-3-seater-leather-sofa-in-army-green-9301480.avif",
@@ -173,7 +173,7 @@ export const sofaCumBedProducts = [
     href: "/product/camden-3-seater-pull-out-sofa-cum-bed-in-vapour-grey-colour-7518908-8687512",
     slug: "camden-3-seater-pull-out-sofa-cum-bed-in-vapour-grey-colour-7518908-8687512",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹91,999",
     mrp: "₹1,44,999",
     image: "/images/new-arrivals/products/02-ronan-3-seater-fabric-sofa-in-beige-colour-9106253.avif",
@@ -191,7 +191,7 @@ export const sofaCumBedProducts = [
     href: "/product/peckham-sofa-cum-bed-in-ocean-weave-9283852",
     slug: "peckham-sofa-cum-bed-in-ocean-weave-9283852",
     badge: "New",
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹76,999",
     mrp: "₹1,24,999",
     image: "/images/new-arrivals/products/08-taran-teak-wood-sofa-deep-olive-velvet-8281294.avif",
@@ -209,7 +209,7 @@ export const sofaCumBedProducts = [
     href: "/product/edo-sofa-cum-bed-in-ocean-waeve-9735365",
     slug: "edo-sofa-cum-bed-in-ocean-waeve-9735365",
     badge: null,
-    brand: "Urban Ladder",
+    brand: "Divya Furniture World",
     salePrice: "₹71,999",
     mrp: "₹1,19,999",
     image: "/images/new-arrivals/products/13-raynor-3-seater-wooden-sofa-finish-amber-walnut-fabric-macadamia-brown-8115797.avif",
@@ -224,3 +224,4 @@ export const sofaCumBedProducts = [
 ];
 
 export const SOFA_CUM_BEDS_COUNT = sofaCumBedProducts.length;
+
